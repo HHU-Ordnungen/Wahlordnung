@@ -33,13 +33,13 @@ Dem Studierendenparlament gehören 17 ordentliche Mitglieder und mit beratender 
 
 Das SP legt den Termin der SP-Wahl bis zum 31. Tag vor dem letzten Tag des dem Wahlsemester vorangehenden Semesters fest.
 
-(2) Dem Wahlausschuss gehören 5 Mitglieder an. Bei der Besetzung der Mitglieder und ihrer Stellvertretungen ist das Wahlergebnis des SP zu Grunde zu legen und sind die Sitze nach dem in <<_6_wahlsystem, § 6 Abs. 2>> beschriebenen Verfahren von Sainte-Laguë/Schepers an die Listen zu verteilen. Die Besetzung wird erst mit der Zustimmung der zur Besetzung vorgeschlagenen Person gültig.
+(2) Dem Wahlausschuss gehören 5 Mitglieder an. Bei der Besetzung der Mitglieder und ihrer Stellvertretungen findet xref:satzung::index.adoc#_15_wahl_und_zusammensetzung_des_sp[§ 15 Absatz 4 der Satzung] mit der Maßgabe Anwendung, dass die Fraktionsstärke zum Zeitpunkt der Beschlussfassung über den Wahltermin maßgeblich ist. Die Besetzung wird erst mit der Zustimmung der zur Besetzung vorgeschlagenen Person gültig.
 
 (3) Mitglieder des AStA sowie Kandidierende können dem Wahlausschuss nicht angehören. Mit ihrer Besetzung sind die Mitglieder des Wahlausschusses für die jeweilige Wahl von der Kandidatur ausgeschlossen, selbst wenn sie aus dem Wahlausschuss zurücktreten. Vor ihrer Zustimmung zur Besetzung nach <<_7_wahlausschuss, §7 Abs. 2>> muss die Person vom Präsidium auf die hier genannten Folgen der Mitgliedschaft im Wahlausschuss aufmerksam gemacht werden, diese Aufklärung muss schriftlich festgehalten werden.
 
-(4) Der Wahlausschuss wählt aus seiner Mitte eine den Wahlausschussvorsitz bekleidende Person. Diese sichert in Abstimmung mit der Universitätsverwaltung die technische Vorbereitung und Durchführung der Wahl. Die den Wahlausschussvorsitz bekleidende Person führt die Beschlüsse des Wahlausschusses aus. Sie informiert die Universitätsleitung über den Ablauf des Wahlverfahrens und über das Wahlergebnis.
+(4) Der Wahlausschuss wählt aus seiner Mitte eine den Wahlausschussvorsitz bekleidende Person (Wahlleitung) und eine Stellvertretung. Diese sichert in Abstimmung mit der Universitätsverwaltung die technische Vorbereitung und Durchführung der Wahl. Die den Wahlausschussvorsitz bekleidende Person führt die Beschlüsse des Wahlausschusses aus. Sie informiert die Universitätsleitung über den Ablauf des Wahlverfahrens und über das Wahlergebnis.
 
-(5) Zu den Sitzungen lädt die den Wahlausschussvorsitz bekleidende Person die Mitglieder des Wahlausschusses in Textform ein. In der Wahlwoche tagt der Ausschuss täglich. Für die Sitzungen in der Wahlwoche sind keine gesonderten Einladungen nötig. Der Wahlausschuss ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig, sofern ordnungsgemäß eingeladen worden ist, bzw. in der Wahlwoche Termin und Tagungsort ordnungsgemäß mitgeteilt worden sind. Über die Sitzungen ist ein Protokoll zu führen, das von der Sitzungsleitung und der Protokollführung zu unterzeichnen ist. Dieses Protokoll muss nach den Regelungen der Geschäftsordnung des Parlaments versandt werden. Der Wahlausschuss tagt öffentlich. Er kann, um die Durchführung der Sitzung sicherzustellen, die Öffentlichkeit ausschließen.
+(5) Zu den Sitzungen lädt die den Wahlausschussvorsitz bekleidende Person die Mitglieder des Wahlausschusses in Textform ein. In der Wahlwoche tagt der Ausschuss täglich. Für die Sitzungen in der Wahlwoche sind keine gesonderten Einladungen nötig. Der Wahlausschuss ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig, sofern ordnungsgemäß eingeladen worden ist, bzw. in der Wahlwoche Termin und Tagungsort ordnungsgemäß mitgeteilt worden sind. Über die Sitzungen ist ein Protokoll zu führen, das von der Sitzungsleitung und der Protokollführung zu unterzeichnen ist. Im Übrigen gelten für den Wahlausschuss die Regelungen der Geschäftsordnung des SP für Ausschüsse. Der Wahlausschuss tagt öffentlich. Er kann, um die Durchführung der Sitzung sicherzustellen, die Öffentlichkeit ausschließen.
 
 (6) Der Wahlausschuss soll sich für die Durchführung der Wahlen, insbesondere die Besetzung der Wahlurnen und die Auszählung, Freiwilliger aus der Studierendenschaft bedienen; für diese Tätigkeit ist ein Erfrischungsgeld zu gewähren. Das Erfrischungsgeld ist auch Mitgliedern des Wahlausschusses zu gewähren, wenn diese die Aufgaben von Wahlhelfenden übernehmen. Kandidierende können nicht Wahlhelfende sein.
 
@@ -116,15 +116,19 @@ Wird ein oder kein Wahlvorschlag eingereicht, entspricht einer oder keiner der e
 angemessen zu berücksichtigen.
 
 === § 14 Briefwahl
-(1) Wahlberechtigte können ihr Wahlrecht auch durch Briefwahl ausüben. Der Antrag auf Briefwahl ist an die den Wahlausschussvorsitz bekleidende Person zu richten. Der Antrag muss Namen, Vornamen, Geburtsdatum sowie die postalische Adresse, an die die Briefwahlunterlagen gesendet werden sollen, enthalten.
+(1) Wahlberechtigte können ihr Wahlrecht auch durch Briefwahl ausüben. Der Antrag auf Briefwahl ist in Textform an die Wahlleitung zu richten. Der Antrag muss Namen, Vornamen, Geburtsdatum sowie entweder die postalische Adresse, an die die Briefwahlunterlagen gesendet werden sollen, oder den Namen der Person, die bevollmächtigt wird die Briefwahlunterlagen für die antragstellende Person abzuholen, enthalten.
 
-(2) Der Antrag auf Teilnahme an der Briefwahl muss spätestens am 21. Tag vor dem ersten Wahltag gestellt werden. Die Versendung der Briefwahlunterlagen muss spätestens am 14. Tag vor dem ersten Wahltag erfolgen.
+(2) Der Antrag auf Teilnahme an der Briefwahl muss spätestens am 21. Tag vor dem ersten Wahltag gestellt werden. Abweichend hiervon können Wahlberechtigte auch noch bis zum Ende der Wahlwoche einen Antrag auf Briefwahl stellen, sofern sie auf Grund einer Erkrankung, einem Gebot oder Verbot einer auf Grund des Infektionsschutzgesetzes erlassenen Rechtsverordnung oder einer infektionsschutzrechtlichen behördlichen Anordnung an der Stimmabgabe an einer Urne gehindert sind. Der Grund der Verhinderung ist bei der Antragstellung glaubhaft zu machen.
 
-(3) Die per Brief wählende Person erhält als Unterlagen den Stimmzettel, den Wahlschein, den Wahlumschlag und den Briefwahlumschlag sowie ein Merkblatt mit Hinweisen zur Durchführung der Briefwahl.
+(3) Die Versendung der Briefwahlunterlagen für Anträge, die innerhalb der Frist von Absatz 2 Satz 1 gestellt wurden, erfolgt spätestens am 14. Tag vor dem ersten Wahltag ausschließlich postalisch. Anträge, die später gestellt werden, können nach Wahl der antragstellenden Person ebenfalls postalisch zugestellt werden oder von einer bevollmächtigten Person abgeholt werden. Die postalische Zusendung kann nur bis 16 Uhr des zweiten Wahltages beantragt werden. Die Wahlleitung sendet der antragstellenden Person die Briefwahlunterlagen unverzüglich, in der Wahlwoche jedoch spätestens am nächsten Tag, zu. Werden die Wahlunterlagen von einer bevollmächtigten Person abgeholt, so muss diese die Vollmacht und die Kopie eines amtlichen Lichtbildausweises der briefwählenden Person vorlegen.
 
-(4) Die Stimme muss am vorletzten Wahltag bis zum Zeitpunkt der Schließung der Wahllokale bei der den Wahlausschussvorsitz bekleidenden Person eingegangen sein (Ausschlussfrist). Verspätet eingegangene Stimmen verfallen.
+(4) Die per Brief wählende Person erhält als Unterlagen den Stimmzettel, den Wahlschein, den Wahlumschlag und den Briefwahlumschlag sowie ein Merkblatt mit Hinweisen zur Durchführung der Briefwahl.
 
-(5) Wenn Wahlberechtigte, die von der Briefwahl Gebrauch gemacht haben, während der Wahlwoche an der Urne gewählt haben, wird der entsprechende Briefwahlumschlag nicht in die Auszählung miteinbezogen.
+(5) Die wählende Person oder deren Hilfsperson hat auf dem Wahlschein an Eides statt zu versichern, dass sie die Stimme persönlich oder als Hilfsperson gemäß dem erklärten Willen der wählenden Person gekennzeichnet hat. Die Wahlleitung ist zur Abnahme einer solchen Versicherung an Eides Statt zuständig.
+
+6) Die Stimme muss am letzten Wahltag bis zum Ende der letzten Öffnungszeit einer Urne bei der Wahlleitung eingegangen sein (Ausschlussfrist). Verspätet eingegangene Stimmen verfallen.
+
+(7) Wenn Wahlberechtigte, die von der Briefwahl Gebrauch gemacht haben, während der Wahlwoche an der Urne gewählt haben, wird der entsprechende Briefwahlumschlag nicht in die Auszählung miteinbezogen.
 
 === § 15 Wahlsicherung
 (1) Je zwei Mitglieder des Wahlausschusses verteilen die vom Wahlausschuss versiegelten Urnen und die Wahlutensilien an die Wahlhelfenden und nehmen diese am Ende jedes Wahltages entgegen. Der Empfang ist von den Wahlhelfenden bzw. den Wahlausschussmitgliedern zu quittieren.
@@ -230,7 +234,7 @@ Scheidet ein gewähltes ordentliches oder stellvertretendes Mitglied aus, so rü
 Das Präsidium des scheidenden SP ruft die neu gewählten Mitglieder des Studierendenparlamentes unverzüglich zur konstituierenden Sitzung ein, die spätestens zwei Wochen nach Veröffentlichung des Wahlergebnisses stattzufinden hat. Es leitet diese Sitzung bis zur Wahl des neuen Präsidiums. Ist das Präsidium des scheidenden SP verhindert oder anderweitig nicht in der Lage dazu, übernimmt die Wahlleitung die Aufgaben nach Satz 1 und 2.
 
 === § 23 Vorgezogene Neuwahlen
-Wird das SP gem. xref:satzung::index.adoc#_16_die_fraktionen_des_sp[§ 16 der Satzung] aufgelöst, legt das SP abweichend von <<_7_wahlausschuss, § 7 Abs. 1>> den Termin der SP-Wahl vor seiner Auflösung fest. Abweichend von <<_7_wahlausschuss, § 7 Abs. 1 Satz 4>> findet die konstituierende Sitzung des Wahlausschusses spätestens 10 Tage nach der Auflösung des SP statt. Des Weiteren gelten folgende veränderte Fristen:
+Findet gemäß xref:satzung::index.adoc#_16_die_fraktionen_des_sp[§ 16 der Satzung] eine Neuwahl vorzeitig statt, legt das SP abweichend von <<_7_wahlausschuss, § 7 Absatz 1>> den Termin der Wahl unverzüglich fest. Abweichend von <<_7_wahlausschuss, § 7 Abs. 1 Satz 4>> findet die konstituierende Sitzung des Wahlausschusses spätestens 10 Tage nach Festlegen des Wahltermins statt. Des Weiteren gelten folgende veränderte Fristen:
 
 a. in <<_8_wahlverzeichnis, § 8 Abs. 1 Satz 2>> statt dem 42. der 21. Tag vor dem ersten Wahltag
 b. in <<_8_wahlverzeichnis, § 8 Abs. 3>> statt dem 35. bis einschließlich 29. der 14. bis einschließlich 8. Tag vor der Wahl,
@@ -239,7 +243,7 @@ d. in <<_10_wahlvorschläge, § 10 Abs. 1>> statt dem 33. der 14. Tag vor dem er
 e. in <<_10_wahlvorschläge, § 10 Abs. 5 Satz 2>> statt dem 26. der 11. Tag vor dem ersten Wahltag,
 f. in <<_10_wahlvorschläge, § 10 Abs. 7>> statt dem 21. der 10. Tag vor dem ersten Wahltag,
 g. in <<_14_briefwahl, § 14 Abs. 2 Satz 1>> statt dem 21. der 10. Tag vor dem ersten Wahltag,
-h. in <<_14_briefwahl, § 14 Abs. 2 Satz 2>> statt dem 14. der 7. Tag vor dem ersten Wahltag.
+h. in <<_14_briefwahl, § 14 Absatz 3 Satz 1>> statt dem 14. der 7. Tag vor dem ersten Wahltag.
 
 === § 24 Wahlkampfkostenerstattung
 (1) Hochschulgruppen, die an einer Wahl zum Studierendenparlament als Liste teilgenommen haben, können nach Beendigung der Wahl und Konstituierung des gewählten Studierendenparlamentes eine Wahlkampfkostenerstattung beim SP‐Präsidium beantragen.
@@ -497,4 +501,6 @@ e. Abbruch einer Wahl.
 
 == IV. Übergangsbestimmungen
 === § 45 Übergangsbestimmungen
-Zur erstmaligen Wahl eines Fachschaftsrates bestellt das Präsidium des Studierendenparlamentes im Einvernehmen mit der Fachschaft den Wahlausschuss. Die Wahlvollversammlung wird dann von der Wahlleitung einberufen.
+(1) Zur erstmaligen Wahl eines Fachschaftsrates bestellt das Präsidium des Studierendenparlamentes im Einvernehmen mit der Fachschaft den Wahlausschuss. Die Wahlvollversammlung wird dann von der Wahlleitung einberufen.
+
+(2) Für die Wahlen zum Studierendenparlament im Juni 2020 findet xref:0@wahlordnung::index.adoc#_7_wahlausschuss[§ 7 Absatz 2] in der Fassung der Bekanntmachung vom 07.02.2019 (veröffentlicht in den Amtlichen Bekanntmachungen Nr. 7/2019) Anwendung.
