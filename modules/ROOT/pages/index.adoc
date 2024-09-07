@@ -243,6 +243,7 @@ d. die aktualisierte Fassung des Leitfadens zur Wahldurchführung (WA-Reader).
 Das Präsidium des scheidenden SP ruft die neu gewählten Mitglieder des Studierendenparlamentes unverzüglich zur konstituierenden Sitzung ein, die spätestens zwei Wochen nach Veröffentlichung des Wahlergebnisses stattzufinden hat. Es leitet diese Sitzung bis zur Wahl des neuen Präsidiums. Ist das Präsidium des scheidenden SP verhindert oder anderweitig nicht in der Lage dazu, übernimmt die Wahlleitung die Aufgaben nach Satz 1 und 2.
 
 === § 23 Vorgezogene Neuwahlen
+
 Findet gemäß xref:satzung::index.adoc#_22_vorgezogene_neuwahl_des_sp[§ 22 der Satzung] eine Neuwahl vorzeitig statt, legt das SP abweichend von <<_7_wahlausschuss, § 7 Absatz 1>> den Termin der Wahl unverzüglich fest. Abweichend von <<_7_wahlausschuss, § 7 Abs. 1 Satz 4>> findet die konstituierende Sitzung des Wahlausschusses spätestens 10 Tage nach Festlegen des Wahltermins statt. Des Weiteren gelten folgende veränderte Fristen:
 
 a. in <<_8_wahlverzeichnis, § 8 Abs. 1 Satz 2>> statt dem 42. der 21. Tag vor dem ersten Wahltag
@@ -692,3 +693,4 @@ stand. Standen im zweiten Wahlgang mehrere Kandidierende zur Wahl, stehen im dri
 (2) Die Abwahl ist erfolgreich, wenn auf den Antrag in geheimer Abstimmung eine zwei Drittel Mehrheit der Abstimmenden, mindestens die Mehrheit der satzungsgemäßen Mitglieder, entfällt.
 
 (3) Über eine erfolgreiche Abwahl ist der Rechtsausschuss und das SP-Präsidium durch das Fachschaftenreferat unverzüglich zu unterrichten.
+
