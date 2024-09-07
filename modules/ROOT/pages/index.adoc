@@ -1,0 +1,498 @@
+=  Wahlordnung für die Wahlen zu den Organen und Gremien der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf
+
+== I. Allgemeines
+=== § 1 Geltungsbereich
+Die Wahlordnung regelt die Wahlen zum Studierendenparlament, zu den Fachschaftsvertretungen und zu den Fachschaftsräten der Heinrich-Heine-Universität Düsseldorf.
+
+== II. Wahlen zum Studierendenparlament
+=== § 2 Wahlgrundsätze
+Das Studierendenparlament (SP) wird von den Mitgliedern der Studierendenschaft der HeinrichHeine-Universität Düsseldorf in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt.
+
+=== § 3 Wahlrecht und Wählbarkeit
+(1) Wahlberechtigt und wählbar sind alle Mitglieder der Studierendenschaft im Sinne von xref:satzung::index.adoc#_1_begriffsbestimmung_und_rechtsstellung[§ 1 Abs. 1 und 2 der Satzung der Studierendenschaft].
+
+(2) Alle Wahlberechtigten, die ihre Mitgliedschaft spätestens am 42. Tag vor dem ersten Wahltag erworben haben, sind in das Wahlverzeichnis aufzunehmen. Wahlberechtigten, die ihre Mitgliedschaft später erworben haben oder im Wahlverzeichnis nicht aufgeführt sind, ohne hiergegen fristgerecht Einspruch erhoben zu haben (<<_8_wahlverzeichnis, § 8 Abs. 4>>), obliegt der Nachweis ihrer Wahlberechtigung.
+
+=== § 4 Wahlkreis
+Zur Wahl des Studierendenparlamentes bildet die Studierendenschaft der Heinrich-Heine-Universität Düsseldorf einen Wahlkreis.
+
+=== § 5 Mitgliederzahl
+Dem Studierendenparlament gehören 17 ordentliche Mitglieder und mit beratender Stimme 17 stellvertretende Mitglieder an.
+
+=== § 6 Wahlsystem
+(1) Die zur Verfügung stehenden Sitze werden nach dem Prinzip der Verhältniswahl vergeben. Jede wahlberechtigte Person hat eine Stimme, die sie einem Wahlvorschlag (Liste) gibt (<<_10_wahlvorschläge, § 10 Wahlordnung>>).
+
+(2) Die Sitze werden den Listen nach dem Verfahren von Sainte-Laguë/Schepers zugeteilt. Für die Verteilung der nach Listen zu besetzenden Sitze werden die für jede Liste abgegebenen gültigen Stimmen zusammengezählt. Anhand der Gesamtstimmenzahl wird für jede Liste nach der Reihenfolge der Höchstzahlen, die sich durch Teilung durch 0,5 - 1,5 - 2,5 usw. ergibt (Höchstzahlverfahren), festgestellt, wie viele der Sitze auf sie entfallen (verhältnismäßiger Sitzanteil). Über die Zuteilung des letzten Sitzes entscheidet bei gleicher Höchstzahl das von der den Wahlausschussvorsitz bekleidenden Person zu ziehende Los.
+
+(3) Entfallen durch das Verfahren nach Abs. 2 auf eine Liste mehr Sitze als diese Kandidierende enthält, so wird das Verfahren nach Abs. 2 insofern modifiziert, als dass diejenigen Höchstzahlen, die dieser Liste diese Mehrsitze zuweisen, in das Verteilungsverfahren auf die anderen Listen einbezogen werden.
+
+(4) Die nach Abs. 2 und 3 auf die einzelnen Listen entfallenden Sitze werden nach der in der jeweiligen Liste festgelegten Reihenfolge besetzt.
+
+=== § 7 Wahlausschuss
+(1) Das SP bestellt zur Vorbereitung und für die Durchführung der Wahl einen Wahlausschuss. Dieser beschließt insbesondere über die eingereichten Wahlvorschläge und stellt das Wahlergebnis fest. Bei Streitigkeiten über die Auslegung der Wahlordnung entscheidet der Wahlausschuss. Die konstituierende Sitzung des Wahlausschusses findet spätestens eine Woche vor der ersten Vorlesungswoche des Wahlsemesters statt.
+
+Das SP legt den Termin der SP-Wahl bis zum 31. Tag vor dem letzten Tag des dem Wahlsemester vorangehenden Semesters fest.
+
+(2) Dem Wahlausschuss gehören 5 Mitglieder an. Bei der Besetzung der Mitglieder und ihrer Stellvertretungen ist das Wahlergebnis des SP zu Grunde zu legen und sind die Sitze nach dem in <<_6_wahlsystem, § 6 Abs. 2>> beschriebenen Verfahren von Sainte-Laguë/Schepers an die Listen zu verteilen. Die Besetzung wird erst mit der Zustimmung der zur Besetzung vorgeschlagenen Person gültig.
+
+(3) Mitglieder des AStA sowie Kandidierende können dem Wahlausschuss nicht angehören. Mit ihrer Besetzung sind die Mitglieder des Wahlausschusses für die jeweilige Wahl von der Kandidatur ausgeschlossen, selbst wenn sie aus dem Wahlausschuss zurücktreten. Vor ihrer Zustimmung zur Besetzung nach <<_7_wahlausschuss, §7 Abs. 2>> muss die Person vom Präsidium auf die hier genannten Folgen der Mitgliedschaft im Wahlausschuss aufmerksam gemacht werden, diese Aufklärung muss schriftlich festgehalten werden.
+
+(4) Der Wahlausschuss wählt aus seiner Mitte eine den Wahlausschussvorsitz bekleidende Person. Diese sichert in Abstimmung mit der Universitätsverwaltung die technische Vorbereitung und Durchführung der Wahl. Die den Wahlausschussvorsitz bekleidende Person führt die Beschlüsse des Wahlausschusses aus. Sie informiert die Universitätsleitung über den Ablauf des Wahlverfahrens und über das Wahlergebnis.
+
+(5) Zu den Sitzungen lädt die den Wahlausschussvorsitz bekleidende Person die Mitglieder des Wahlausschusses in Textform ein. In der Wahlwoche tagt der Ausschuss täglich. Für die Sitzungen in der Wahlwoche sind keine gesonderten Einladungen nötig. Der Wahlausschuss ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig, sofern ordnungsgemäß eingeladen worden ist, bzw. in der Wahlwoche Termin und Tagungsort ordnungsgemäß mitgeteilt worden sind. Über die Sitzungen ist ein Protokoll zu führen, das von der Sitzungsleitung und der Protokollführung zu unterzeichnen ist. Dieses Protokoll muss nach den Regelungen der Geschäftsordnung des Parlaments versandt werden. Der Wahlausschuss tagt öffentlich. Er kann, um die Durchführung der Sitzung sicherzustellen, die Öffentlichkeit ausschließen.
+
+(6) Der Wahlausschuss soll sich für die Durchführung der Wahlen, insbesondere die Besetzung der Wahlurnen und die Auszählung, Freiwilliger aus der Studierendenschaft bedienen; für diese Tätigkeit ist ein Erfrischungsgeld zu gewähren. Das Erfrischungsgeld ist auch Mitgliedern des Wahlausschusses zu gewähren, wenn diese die Aufgaben von Wahlhelfenden übernehmen. Kandidierende können nicht Wahlhelfende sein.
+
+=== § 8 Wahlverzeichnis
+(1) Der Wahlausschuss stellt bei der Hochschulverwaltung den Antrag auf Erstellung eines Wahlverzeichnisses, wenn möglich elektronisch. Alle Wahlberechtigten, die ihre Wahlberechtigung bis zum 42. Tag vor dem ersten Wahltag erworben haben, sind im Wahlverzeichnis mit Namen, Vornamen und dem Geburtsdatum aufzuführen. Die Gesamtzahl der aufgeführten Wahlberechtigten ist mit anzugeben. Bei der Aufstellung des Wahlverzeichnisses ist den Erfordernissen des Datenschutzes Rechnung zu tragen.
+
+(2) Das Wahlverzeichnis wird nach Abschluss des Wahlverfahrens unter Aufsicht der den Wahlausschussvorsitz bekleidenden Person vernichtet. Es darf nicht an Unbefugte weitergegeben werden, ist nur gegen schriftliche Bestätigung auszugeben und nach jedem Wahltag unter Verschluss zu nehmen.
+
+(3) Das Wahlverzeichnis ist vom 35. bis einschließlich 29. Tag vor dem ersten Wahltag bei der Universitätsverwaltung innerhalb deren Öffnungszeiten zur Einsichtnahme auszulegen.
+
+(4) Einsprüche gegen die Richtigkeit des Wahlverzeichnisses können bei der den Wahlausschussvorsitz bekleidenden Person innerhalb der Auslagefrist schriftlich erklärt werden. Über den Einspruch entscheidet der Wahlausschuss.
+
+=== § 9 Wahlbekanntmachung
+(1) Die den Wahlausschussvorsitz bekleidende Person macht die Wahl am ersten Vorlesungstag im Sommersemester und somit spätestens am 56. Tag vor dem ersten Wahltag öffentlich durch Aushang an der für die Bekanntmachungen der Studierendenschaft vorgesehenen Anschlagtafel bekannt. Darüber hinaus kann nach Maßgabe der Möglichkeiten durch sonstige Publikationen auf die Wahl hingewiesen werden.
+
+(2) Die Bekanntmachung muss mindestens enthalten:
+
+a. Ort und Datum ihrer Veröffentlichung,
+b. die Bezeichnung des zu wählenden Organs,
+c. die Wahltage,
+d. den Hinweis darauf, dass jedes Mitglied der Studierendenschaft gemäß xref:satzung::index.adoc#_1_begriffsbestimmung_und_rechtsstellung[§1 der Satzung der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf] wahlberechtigt und wählbar ist,
+e. den Hinweis auf Ort und Zeit der Auslage des Wahlverzeichnisses,
+f. den Hinweis auf die Einspruchsmöglichkeit gegen die Richtigkeit des Wahlverzeichnisses,
+g. den Hinweis darauf, dass denjenigen, die nicht im Wahlverzeichnis aufgeführt sind und denen, die dagegen nicht fristgemäß Einspruch erhoben haben, der Nachweis ihrer Wahlberechtigung obliegt,
+h. Orte und Zeiten der Stimmabgabe,
+i. die Zahl der zu wählenden Mitglieder,
+j. eine Darstellung des Wahlsystems,
+k. die Angabe von Ort und Zeit, wo und wann eine Wahl ohne Studierendenausweis möglich ist,
+l. einen Hinweis auf die Möglichkeit eines Antrages auf Briefwahl sowie die Angabe, wie ein solcher Antrag gestellt werden kann, und die bei der Briefwahl zu beachtenden Fristen.
+m. die Frist, innerhalb derer Wahlvorschläge eingereicht werden können,
+n. den Hinweis, dass Wahlvorschläge an die den Wahlausschussvorsitz bekleidenden Person zu richten sind, sowie Ort und Zeit der Entgegennahme,
+o. den Ort und den Termin der Auszählung der Stimmen.
+
+=== § 10 Wahlvorschläge
+(1) Die Wahlvorschläge (Listen) müssen spätestens am 33. Tag vor dem ersten Wahltag mittags um 12.00 Uhr beim Wahlausschuss eingegangen sein (Ausschlussfrist). Der Eingang ist vom Wahlausschuss zu bestätigen. Es ist zusätzlich eine digitale Abschrift in einem üblichen Dateiformat einzureichen.
+
+(2) Jede wahlberechtigte Person kann sich selbst oder andere Wahlberechtigte zur Wahl vorschlagen. Eine Liste kann auch aus nur einer Person bestehen. Mit dem Wahlvorschlag ist eine unwiderrufliche schriftliche Erklärung jeder kandidierenden Person einzureichen, dass sie der Aufnahme in den Wahlvorschlag zugestimmt hat. Von jeder kandidierenden Person ist auf je einem zusätzlichen Dokument das Einverständnis mit dem konkreten starren Listenplatz zu versichern.
+
+(3) Eine kandidierende Person darf nicht in mehrere Wahlvorschläge aufgenommen werden. Im Zweifel gilt die Kandidatur für den zuerst beim Wahlausschuss eingereichten Wahlvorschlag.
+
+(4) Der Wahlvorschlag muss je Name, Vorname, Universitäts-E-Mail-Adresse, Geburtsdaten und Angabe der Fakultätszugehörigkeit der kandidierenden Personen enthalten sowie die Wahl bezeichnen, für die der Vorschlag gelten soll. Des Weiteren müssen Name, Vorname, Universitäts-E-Mail-Adresse und Telefonnummer (bevorzugt Mobiltelefonnummer) einer für die Liste verantwortlichen und einer stellvertretenden verantwortlichen Person enthalten sein. Diese Angaben müssen nach der Wahl an das amtierende SP-Präsidium übergeben werden.
+
+(5) Bei Wahlvorschlägen, die fristgerecht eingereicht worden sind, jedoch nicht den Anforderungen nach Abs. 1 Satz 3, Abs. 2, 3 und 4 genügen, ist die listenverantwortliche Person der die Liste einreichenden Hochschulgruppe spätestens 24 Stunden nach Einreichungsfrist, unter Angabe der Gründe der Beanstandung durch den Wahlausschuss in Textform zu benachrichtigen. Damit ist die Aufforderung zu verbinden, die Mängel bis um 12:00 mittags am 26. Tag vor dem ersten Wahltag zu beseitigen. Werden die Mängel nicht oder nicht fristgerecht beseitigt, so ist wie folgt zu verfahren: Werden nur einzelne Kandidaturen des Wahlvorschlages bemängelt, so gelten auch nur diese Kandidaturen als ungültig; die entsprechenden Namen sind aus dem Wahlvorschlag zu streichen. Andernfalls gilt der gesamte Wahlvorschlag als ungültig.
+
+(6) Kommt der Wahlausschuss seiner Pflicht aus Absatz 5 Satz 1 und 2 nicht oder nicht fristgemäß nach, so ist der betreffende Wahlvorschlag als gültig anzusehen. Offensichtliche Fehler in dem Wahlvorschlag dürfen korrigiert werden.
+
+(7) Die den Wahlausschussvorsitz bekleidende Person gibt spätestens am 21. Tag vor dem ersten Wahltag die als gültig anerkannten Wahlvorschläge durch Aushang an der dafür vorgesehenen Anschlagstelle öffentlich innerhalb der Studierendenschaft bekannt. Die Reihenfolge der Wahlvorschläge in der Veröffentlichung wird per Los bestimmt. Fehler im Wahlvorschlag, die binnen 24 Stunden nach Veröffentlichung durch die kandidierende oder durch die listenverantwortliche Person gemeldet werden, müssen vom Wahlausschuss korrigiert werden, sofern die Korrektur dem schriftlich eingereichten Wahlvorschlag entspricht.
+
+=== § 11 Wahlverfahren bei fehlendem gültigem Wahlvorschlag
+Wird ein oder kein Wahlvorschlag eingereicht, entspricht einer oder keiner der eingereichten Wahlvorschläge den Anforderungen oder gibt es insgesamt weniger Kandidierende als zu besetzende Mandate, so wird unverzüglich das Wahlverfahren von den bestehenden Wahlorganen auf der Grundlage des bereits aufgestellten Wahlverzeichnisses nach Maßgabe dieser Wahlordnung wiederholt. Insbesondere bestimmt der Wahlausschuss unverzüglich einen neuen Wahltermin.
+
+=== § 12 Wahlunterlagen
+(1) Bei der Wahl sind amtliche Stimmzettel sowie für die Briefwahl amtliche Wahlscheine, Wahlumschläge und Briefwahlumschläge zu verwenden. Außerdem ist ein Merkblatt mit Hinweisen zur Durchführung der Briefwahl zu erstellen (<<_14_briefwahl, §14>>).
+
+(2) Für die Herstellung der amtlichen Unterlagen ist die den Wahlausschussvorsitz bekleidende Person zuständig.
+
+(3) Der Stimmzettel enthält die Bezeichnung der Wahllisten mit den Namen der Kandidierenden. Die Gestaltung der Stimmzettel entspricht <<_10_wahlvorschläge, § 10 Abs. 7>>.
+
+=== § 13 Urnenwahl
+(1) Die Urnenwahl findet an fünf nicht vorlesungsfreien Tagen statt, von denen mindestens drei aufeinander folgen müssen. Für die Mindestanzahl an Urnen nach Abs. 7 gilt, dass sie jeweils mindestens sechs Stunden pro Tag innerhalb der normalen Veranstaltungszeiten geöffnet sein müssen. Zusätzliche Urnen nach Abs. 7 dürfen kürzer geöffnet sein. Nach dem Schließen der regulären Urnen ist an jedem Wahltag für 30 Minuten die Wahl auch ohne Studierendenausweis an der Urne im Wahlbüro möglich. Diese Urnenöffnungszeit darf nicht später als eine Stunde nach Schließen der letzten regulären Urne beginnen.
+
+(2) Bei der Stimmabgabe haben die wählenden Personen ihren gültigen Personalausweis oder einen anderen gültigen amtlichen Ausweis mit Lichtbild sowie den Studierendenausweis vorzulegen.
+
+(3) Die wählende Person gibt ihre Stimme in der Weise ab, dass sie ihre Entscheidung durch ein gesetztes Kreuz bei einer Liste eindeutig kenntlich macht.
+
+(4) Darauf wirft die wählende Person den gefalteten Stimmzettel in die Wahlurne.
+
+(5) Bei der Stimmabgabe wird die Wahlberechtigung anhand des zentralen Wahlverzeichnisses geprüft und in diesem die Teilnahme an der Wahl vermerkt. Wer nicht im Wahlverzeichnis aufgeführt ist, die Wahlberechtigung aber mittels des Studierendenausweises nachweist, ist mit den entsprechenden Angaben unverzüglich in das Verzeichnis nachzutragen. Die Stimmabgabe ist nur persönlich möglich.
+
+(6) Die Wahlhandlung findet im öffentlichen Raum statt.
+
+(7) Es sind mindestens acht Urnen aufzustellen, jedoch höchstens eine Urne pro angefangene 1500 Studierenden. Der Wahlausschuss entscheidet im durch Satz 1 bestimmten Rahmen über die Anzahl der Urnen und über ihre Aufstellungsorte. Bei der Festlegung der Urnenstandorte sind die Stimmanzahlen der letzten Wahl, alle Fakultäten, sowie die aktuelle Campussituation, insbesondere Baustellen,
+angemessen zu berücksichtigen.
+
+=== § 14 Briefwahl
+(1) Wahlberechtigte können ihr Wahlrecht auch durch Briefwahl ausüben. Der Antrag auf Briefwahl ist an die den Wahlausschussvorsitz bekleidende Person zu richten. Der Antrag muss Namen, Vornamen, Geburtsdatum sowie die postalische Adresse, an die die Briefwahlunterlagen gesendet werden sollen, enthalten.
+
+(2) Der Antrag auf Teilnahme an der Briefwahl muss spätestens am 21. Tag vor dem ersten Wahltag gestellt werden. Die Versendung der Briefwahlunterlagen muss spätestens am 14. Tag vor dem ersten Wahltag erfolgen.
+
+(3) Die per Brief wählende Person erhält als Unterlagen den Stimmzettel, den Wahlschein, den Wahlumschlag und den Briefwahlumschlag sowie ein Merkblatt mit Hinweisen zur Durchführung der Briefwahl.
+
+(4) Die Stimme muss am vorletzten Wahltag bis zum Zeitpunkt der Schließung der Wahllokale bei der den Wahlausschussvorsitz bekleidenden Person eingegangen sein (Ausschlussfrist). Verspätet eingegangene Stimmen verfallen.
+
+(5) Wenn Wahlberechtigte, die von der Briefwahl Gebrauch gemacht haben, während der Wahlwoche an der Urne gewählt haben, wird der entsprechende Briefwahlumschlag nicht in die Auszählung miteinbezogen.
+
+=== § 15 Wahlsicherung
+(1) Je zwei Mitglieder des Wahlausschusses verteilen die vom Wahlausschuss versiegelten Urnen und die Wahlutensilien an die Wahlhelfenden und nehmen diese am Ende jedes Wahltages entgegen. Der Empfang ist von den Wahlhelfenden bzw. den Wahlausschussmitgliedern zu quittieren.
+
+(2) Jede Wahlurne muss stets von zwei Wahlhelfenden besetzt sein, die für die ordnungsgemäße Durchführung der Wahl an dieser Urne verantwortlich sind.
+
+(3) Die Wahlhelfenden tragen in eine Liste die Zeit ein, in der sie die angewiesene Wahlurne beaufsichtigt haben. Sie bestätigen durch ihre Unterschrift, dass an ihrer Urne die Wahl während dieser Zeit ordnungsgemäß durchgeführt wurde.
+
+(4) An jeder Wahlurne werden zur Einsichtnahmemöglichkeit durch die wählenden Personen die Wahlordnung und ein Exemplar der Veröffentlichung der Wahlvorschläge ausgelegt.
+
+(5) Durch Aufstellen von Wahlkabinen ist dafür Sorge zu tragen, dass das Ausfüllen der Stimmzettel geheim erfolgen kann.
+
+(6) Nach Beendigung jedes Wahltages sind die Urnen durch den Wahlausschuss zu versiegeln und in einem von der Hochschulverwaltung zur Verfügung gestellten abgesonderten Raum unter Verschluss zu nehmen.
+
+(7) Nach Abschluss der Wahl sind die Urnen vom Wahlausschuss wieder zu entsiegeln. Der Wahlausschuss hat die Unversehrtheit der Siegel in einem Protokoll festzuhalten.
+
+(8) Ergeben sich bei der Feststellung der ordnungsgemäßen Versiegelung Unregelmäßigkeiten, so hat der Wahlausschuss die erforderlichen Maßnahmen zu treffen. Über einen Abbruch der Wahl entscheidet gegebenenfalls der Wahlausschuss.
+
+(9) Versiegelung und Entsiegelung erfolgen öffentlich.
+
+=== § 16 Abbruch der Wahl
+(1) Der Wahlausschuss kann einen Abbruch der Wahl beschließen, wenn gegen allgemeine Wahlgrundsätze oder die Regelungen dieser Ordnung in so hohem Maße verstoßen wurde, dass
+
+a. offenkundige und schwere Mängel bestehen und diese Mängel zur Nichtigkeit dieser Wahl führen würden, oder
+b. eine Wahlanfechtung mit Sicherheit zum Erfolg und einer vollständigen Neuwahl führen würde.
+
+(2) Ein Beschluss nach Abs. 1 muss auf einer ordnungsgemäß einberufenen Sitzung mit allen Anwesenden einstimmig erfolgen. In der Wahlwoche muss der Antrag auf Wahlabbruch mindestens 12 Stunden vor der Sitzung angekündigt werden, außerhalb der Wahlwoche muss er bereits mit der Einladung zur Sitzung bekannt gegeben werden.
+
+(3) Im Falle des Abbruchs ist der Wahlausschuss dafür verantwortlich,
+
+a. alle in Zusammenhang mit der Wahl entstandenen Unterlagen (z.B. Wahlbekanntmachung, Wahlvorschläge, Wahlverzeichnisse, Sitzungsprotokolle, Stimmzettel) sicher aufzubewahren; sie sind auf Verlangen den satzungsmäßig zuständigen Organen und Gremien der Studierendenschaft zur Prüfung der abgebrochenen Wahl zur Verfügung zu stellen. Eine Vernichtung dieser Unterlagen kann erst dann erfolgen, wenn die Wahl ordnungsgemäß stattgefunden hat und keine Einsprüche gegen die Gültigkeit der Wahl nach <<_19_gültigkeit_der_wahl, § 19>> vorliegen oder diese nicht mehr zulässig sind. Der Wahlausschuss erstellt einen Bericht über den Verlauf der abgebrochenen Wahl für das SP.
+b. die Auszahlung der Erfrischungsgelder für bereits geleistete Wahlhelfendenstunden zu veranlassen;
+c. die Entfernung der Wahlwerbung zu veranlassen.
+
+(4) Im Falle eines Abbruchs bleiben die aktuellen Mitglieder des Studierendenparlamentes weiter im Amt. Das Studierendenparlament ist dafür verantwortlich, unverzüglich einen neuen Wahltermin festzulegen. Für die Wiederholung der Wahl werden die Regelungen von <<_23_vorgezogene_neuwahlen, §23>> analog angewendet.
+
+=== § 17 Wahlauszählung
+(1) Unmittelbar im Anschluss an die Wahl erfolgt die öffentliche Auszählung der Stimmen. Dabei wird zunächst die Teilnahme an der Briefwahl anhand der ordnungsgemäßen Wahlscheine im Wahlverzeichnis vermerkt. Wenn Wahlberechtigte, die von der Briefwahl Gebrauch gemacht haben, nach <<_14_briefwahl, § 14 Abs. 5>> während der Wahlwoche an der Urne gewählt haben, wird der entsprechende Briefwahlumschlag nicht in die Auszählung miteinbezogen. Nach dieser Prüfung werden die Stimmzettel der Briefwahl mit den anderen Stimmzetteln gemischt und die Auszählung vorgenommen.
+
+(2) Ungültig sind die Stimmzettel, die als nicht für die Wahl hergestellt erkennbar sind.
+
+(3) Ungültig sind die Stimmen,
+a. die den Willen der wahlberechtigten Person nicht zweifelsfrei erkennen lassen,
+b. die einen Zusatz oder Vorbehalt enthalten.
+
+=== § 18 Veröffentlichung des Wahlergebnisses
+(1) Das Wahlergebnis ist unverzüglich öffentlich durch Aushang an den vorgesehenen Aushangstellen innerhalb der Studierendenschaft bekannt zu machen.
+
+(2) Die Bekanntmachung des Wahlergebnisses muss enthalten:
+
+a. Ort und Zeit der Veröffentlichung,
+b. die Zahl der Wahlberechtigten,
+c. die Zahl der abgegebenen Stimmen,
+d. die Zahl der ungültigen Stimmen,
+e. die Zahl der gültigen Stimmen,
+f. die Zahl der auf jede Liste entfallenden gültigen Stimmen,
+g. die Zahl der auf jede Liste entfallenden Sitze,
+h. die Namen der gewählten Kandidierenden,
+i. die Sitzverteilung in den Ausschüssen,
+j. Unterschrift der den Wahlausschussvorsitz bekleidenden Person
+
+=== § 19 Gültigkeit der Wahl
+(1) Die Wahl ist mit der Bekanntmachung des Wahlergebnisses unbeschadet eines Wahlprüfungsverfahrens gültig.
+
+(2) Gegen die Gültigkeit der Wahl können alle Wahlberechtigten Einspruch erheben, der innerhalb von 14 Tagen seit Veröffentlichung des Wahlergebnisses bei der den Wahlausschussvorsitz bekleidenden Person des Wahlausschusses eingegangen sein muss.
+
+(3) Über Einsprüche gegen die Gültigkeit der Wahl entscheidet das neu gewählte Studierendenparlament. Seine Mitglieder sind auch dann nicht gehindert, an der Entscheidung mitzuwirken, wenn sich die Feststellungen im Einzelfall auf ihre Wahl erstrecken. Das SP bildet zur Vorbereitung seiner Entscheidung einen Wahlprüfungsausschuss.
+
+(3a) Die Feststellung des Wahlergebnisses ist für ungültig zu erklären, wenn die Bestimmungen zur Stimmauszählung verletzt worden sind oder andere Unregelmäßigkeiten im Wahlergebnis eine Neufeststellung gebieten.
+
+(4) Wird im Wahlprüfungsverfahren die Feststellung des Wahlergebnisses für ungültig erachtet, so ist sie aufzuheben und eine unverzügliche Neufeststellung in dem in der Entscheidung bestimmten Umfang anzuordnen.
+
+(5) Die Wahl ist ganz oder teilweise für ungültig zu erklären, wenn wesentliche Bestimmungen über die Wahlvorbereitung, die Sitzverteilung, das Wahlrecht, die Wählbarkeit oder das Wahlverfahren verletzt worden sind, es sei denn, dass dies sich nicht auf die Zahl der auf jede Liste entfallenden Sitze ausgewirkt hat.
+
+(6) Wird das Ausscheiden eines Mitgliedes angeordnet, scheidet das Mitglied aus, sobald der Beschluss des Studierendenparlamentes unanfechtbar geworden ist oder im verwaltungsgerichtlichen Verfahren rechtskräftig bestätigt worden ist. Die Rechtswirksamkeit der bisherigen Tätigkeit wird durch das Ausscheiden nicht berührt.
+
+(7) Wird im Wahlprüfungsverfahren die Wahl ganz oder teilweise für ungültig erklärt, so ist sie unverzüglich in dem in der Entscheidung bestimmten Umfang zu wiederholen.
+
+=== § 20 Wahlbericht & Ausschussunterlagen
+(1) Nach Ablauf der Einspruchsfrist gem. <<_19_gültigkeit_der_wahl, § 19 Abs. 2>> erstellt der Wahlausschuss einen Bericht über den Verlauf der Wahl (Wahlbericht) für das SP. Der Wahlbericht kann Handlungsempfehlungen an das SP enthalten, um den reibungslosen Ablauf zukünftiger Wahlen zu sichern.
+
+(2) Die Aufwandsentschädigung für die Mitglieder des Wahlausschusses wird erst ausgezahlt, sobald
+
+a. das Wahlverzeichnis der Wahl ordnungsgemäß vernichtet wurde,
+b. alle Schlüssel zum Wahlbüro ordnungsgemäß zurückgegeben wurden,
+c. alle Wahlutensilien ordnungsgemäß eingelagert wurden,
+d. alle für die Auszahlung der Erfrischungsgelder relevanten Unterlagen an die Buchhaltung übergeben wurden,
+e. alle Ausschussunterlagen auf einem geeigneten Datenträger an das AStA-Sekretariat übergeben wurden.
+
+(3) Zu den Ausschussunterlagen gehören
+
+a. die Protokolle aller Ausschusssitzungen,
+b. alle für die Wahl verwendeten Vorlagen,
+c. eine Kopie des Wahlberichtes,
+d. die aktualisierte Fassung des Leitfadens zur Wahldurchführung (WA-Reader).
+
+(4) Das Vorliegen der Bedingungen nach Abs. 2 ist in einem Übergabeprotokoll zu dokumentieren.
+
+=== § 21 Ausscheiden von Mitgliedern
+Scheidet ein gewähltes ordentliches oder stellvertretendes Mitglied aus, so rücken die Kandidierenden eines Wahlvorschlages entsprechend des Listenplatzes jeweils einen Platz auf. Die Amtszeit eines Mitgliedes des Studierendenparlamentes endet vorzeitig durch Exmatrikulation, Rücktritt, der dem SPPräsidium schriftlich mitzuteilen ist, oder Tod. Scheidet ein durch Austritt oder Ausschluss fraktionslos gewordenes Mitglied aus dem SP aus, so ist im Rahmen von Satz 1 der Wahlvorschlag maßgeblich, durch welchen das fraktionslose Mitglied sein Mandat erhalten hat. Satz 3 gilt auch, wenn sich das fraktionslos gewordene Mitglied einer anderen Fraktion im Parlament angeschlossen hat. Ist die Wahlliste erschöpft, so bleibt der Sitz unbesetzt. Die Zahl der Sitze im Studierendenparlament vermindert sich entsprechend.
+
+=== § 22 Zusammentritt des Studierendenparlamentes
+Das Präsidium des scheidenden SP ruft die neu gewählten Mitglieder des Studierendenparlamentes unverzüglich zur konstituierenden Sitzung ein, die spätestens zwei Wochen nach Veröffentlichung des Wahlergebnisses stattzufinden hat. Es leitet diese Sitzung bis zur Wahl des neuen Präsidiums. Ist das Präsidium des scheidenden SP verhindert oder anderweitig nicht in der Lage dazu, übernimmt die Wahlleitung die Aufgaben nach Satz 1 und 2.
+
+=== § 23 Vorgezogene Neuwahlen
+Wird das SP gem. xref:satzung::index.adoc#_16_die_fraktionen_des_sp[§ 16 der Satzung] aufgelöst, legt das SP abweichend von <<_7_wahlausschuss, § 7 Abs. 1>> den Termin der SP-Wahl vor seiner Auflösung fest. Abweichend von <<_7_wahlausschuss, § 7 Abs. 1 Satz 4>> findet die konstituierende Sitzung des Wahlausschusses spätestens 10 Tage nach der Auflösung des SP statt. Des Weiteren gelten folgende veränderte Fristen:
+
+a. in <<_8_wahlverzeichnis, § 8 Abs. 1 Satz 2>> statt dem 42. der 21. Tag vor dem ersten Wahltag
+b. in <<_8_wahlverzeichnis, § 8 Abs. 3>> statt dem 35. bis einschließlich 29. der 14. bis einschließlich 8. Tag vor der Wahl,
+c. in <<_9_wahlbekanntmachung, § 9 Abs. 1>> statt dem 56. der 28. Tag vor dem ersten Wahltag,
+d. in <<_10_wahlvorschläge, § 10 Abs. 1>> statt dem 33. der 14. Tag vor dem ersten Wahltag,
+e. in <<_10_wahlvorschläge, § 10 Abs. 5 Satz 2>> statt dem 26. der 11. Tag vor dem ersten Wahltag,
+f. in <<_10_wahlvorschläge, § 10 Abs. 7>> statt dem 21. der 10. Tag vor dem ersten Wahltag,
+g. in <<_14_briefwahl, § 14 Abs. 2 Satz 1>> statt dem 21. der 10. Tag vor dem ersten Wahltag,
+h. in <<_14_briefwahl, § 14 Abs. 2 Satz 2>> statt dem 14. der 7. Tag vor dem ersten Wahltag.
+
+=== § 24 Wahlkampfkostenerstattung
+(1) Hochschulgruppen, die an einer Wahl zum Studierendenparlament als Liste teilgenommen haben, können nach Beendigung der Wahl und Konstituierung des gewählten Studierendenparlamentes eine Wahlkampfkostenerstattung beim SP‐Präsidium beantragen.
+
+(2) Für die Erstattung von Wahlkampfkosten werden finanzielle Mittel in Höhe von 1.500 Euro von der Studierendenschaft der Heinrich‐Heine‐Universität bereitgestellt. Diese sind in den Haushalt der Studierendenschaft oder in ein Finanzkonzept zur Durchführung einer jeweiligen SP‐Wahl aufzunehmen.
+
+(3) Die Wahlkampfkostenerstattung wird auf 150 Euro pro Hochschulgruppe begrenzt. Sollten mehr als 10 Wahlvorschläge zu einer Wahl eingereicht werden, steht jeder teilnehmenden Hochschulgruppe 1.500 Euro / Anzahl der Wahlvorschläge zur Verfügung.
+
+(4) In einem Antrag auf Wahlkampfkostenerstattung können Ausgaben für folgende Sachmittel geltend gemacht werden: Plakate, Flyer, sonstige Druckerzeugnisse, Werbemittel, Ausrüstung und Ausstattung von Informationsständen. Rechnungen für alkoholische Getränke werden nicht berücksichtigt.
+
+(5) Bei der Bearbeitung eines Antrags auf Wahlkampfkostenerstattung nach <<_24_wahlkampfkostenerstattung, § 24 Absatz 1 bis 4>> sind die Bestimmungen über die Verwendung von Finanzmitteln gemäß der Satzung der Studierendenschaft der Heinrich‐Heine‐Universität sowie die Richtlinien der https://recht.nrw.de/lmi/owa/br_bes_text?anw_nr=2&gld_nr=2&ugl_nr=221&bes_id=8184&aufgehoben=N&menu=0&sg=0[Haushalts‐ und Wirtschaftsführungs-Verordnung der Studierendenschaften NRW (HWVO NRW)] zu beachten und einzuhalten.
+
+(6) Ein Antrag auf Wahlkampfkostenerstattung kann für ab dem Sommersemester 2018 durchgeführte Wahlen zum Studierendenparlament gestellt werden.
+
+== III. Wahlen zu den Organen der Fachschaften
+=== § 25 Wahlgrundsätze
+Die Fachschaftsräte werden von den Mitgliedern der entsprechenden Fachschaft der Heinrich-Heine Universität Düsseldorf in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl nach den Grundsätzen der Mehrheitswahl gewählt.
+
+=== § 26 Wahlrecht und Wählbarkeit
+(1) Wahlberechtigt und wählbar sind die Mitglieder der Fachschaft im Sinne von xref:satzung::index.adoc#_29_wahl_und_abwahl_der_autonomen_referatsmitglieder_durch_die_arv[§29 Abs. 2 i.V.m. §29 Abs. 1 der Satzung der Studierendenschaft]. Jedes Mitglied der Studierendenschaft darf nur Mitglied in einem Fachschaftsrat sein.
+
+(2) Alle Wahlberechtigten, die ihre Mitgliedschaft spätestens am 21. Tag vor dem ersten Wahltag erworben haben, sind in das Wahlverzeichnis aufzunehmen. Wahlberechtigten, die ihre Mitgliedschaft später erworben haben oder im Wahlverzeichnis nicht aufgeführt sind, ohne hiergegen fristgerecht Einspruch erhoben zu haben (<<_30_wahlverzeichnis, § 30 Abs. 4>>), obliegt der Nachweis ihrer Wahlberechtigung.
+
+=== § 27 Wahlkreis
+Zur Wahl des Fachschaftsrates bilden die Mitglieder der Fachschaft einen Wahlkreis.
+
+=== § 28 Wahlsystem und Größe des Fachschaftsrates
+(1) Die zur Verfügung stehenden Sitze werden nach dem Prinzip der Mehrheitswahl vergeben. Alle Wahlberechtigten haben eine Stimme je kandidierender Person.
+
+(2) Die Anzahl der zur Verfügung stehenden Sitze berechnet sich wie folgt:
+
+a. Ein Fachschaftsrat hat ein Minimum von sechs Sitzen.
+b. Die Anzahl der zur Verfügung stehenden Sitze ist das auf die nächste natürliche Zahl aufgerundete Ergebnis von 6 + x/150, wobei x die Anzahl der Wahlberechtigten ist
+
+(3) Bei der Stimmabgabe darf:
+
+a. auf jede kandidierende Person höchstens eine Stimme vergeben werden. Eine Stimmhäufung ist nicht möglich.
+b. auf jede kandidierende Person eine Positivstimme oder eine Negativstimme abgegeben werden. Falls bei einer kandidierenden Person keine eindeutige Willensäußerung in Form einer Positiv- oder Negativstimme erkennbar ist, gilt dies als Enthaltung. Ebenso kann der Wahlausschuss ein Stimmfeld für Enthaltungen vorsehen.
+
+(4) Gewählt sind die kandidierenden Personen, bei denen die Differenz der Positiv- und Negativstimmen größer oder gleich eins (>=1) ist. Ist die Zahl der gewählten kandidierenden Personen größer als die Zahl der zu vergebenden Sitze, so wird eine Reihung unter diesen kandidierenden Personen gemäß der erreichten Differenz vorgenommen. Bei Differenzgleichheit werden die kandidierenden Personen mit absolut weniger Negativstimmen vorgezogen. Bei identischer Anzahl an Negativstimmen entscheidet das Los über den Rang. Die Sitze werden den kandidierenden Personen in der Reihenfolge der von ihnen erreichten Differenz zugeteilt.
+
+(5) Sind im Sinne von <<_28_wahlsystem_und_größe_des_fachschaftsrates, § 28 Abs. 4>> weniger als drei kandidierende Personen gewählt, wird eine einmalige Nachwahl auf die nicht besetzten Sitze durchgeführt.
+
+(6) Sind mehr Sitze zu verteilen, als gewählte kandidierende Personen vorhanden sind, bleiben diese Sitze unbesetzt. Die Mitgliederzahl des Fachschaftsrates vermindert sich entsprechend.
+
+(7) Nach <<_28_wahlsystem_und_größe_des_fachschaftsrates, § 28 Abs. 4 Sätze 2 bis 5>> nicht gewählte kandidierende Personen sind nachrückende Personen.
+
+=== § 29 Wahlausschuss
+(1) Gleichzeitig mit der Bestimmung des Wahltermins bestellt der Fachschaftsrat zur Vorbereitung und für die Durchführung der Wahl einen Wahlausschuss. Dieser beschließt insbesondere über die eingereichten Wahlvorschläge und stellt das Wahlergebnis fest. Bei Streitigkeiten über die Auslegung der Wahlordnung entscheidet der Wahlausschuss.
+
+(2) Dem Wahlausschuss gehören mindestens drei Mitglieder an. Für jedes Mitglied kann eine Stellvertretung gewählt werden.
+
+(3) Die Mitglieder des Wahlausschusses müssen Mitglieder der Studierendenschaft der HeinrichHeine-Universität Düsseldorf im Sinne des xref:satzung::index.adoc#_1_begriffsbestimmung_und_rechtsstellung[§1] ihrer Satzung sein.
+
+(4) Wahlbewerbende können nicht Mitglied im Wahlausschuss sein.
+
+(5) Mitglieder des Wahlausschusses können gleichzeitig anderen Wahlausschüssen angehören.
+
+(6) Der Wahlausschuss wählt aus seiner Mitte als den Wahlausschussvorsitz bekleidende Person eine Wahlleitung. Diese sichert in Abstimmung mit der Universitätsverwaltung und bei Bedarf mit Unterstützung durch das autonome Fachschaftenreferat die technische Vorbereitung und Durchführung der Wahl. Die Wahlleitung führt die Beschlüsse des Wahlausschusses aus.
+
+(7) Zu den Sitzungen lädt die Wahlleitung die Mitglieder des Wahlausschusses schriftlich ein. Der Wahlausschuss ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig, sofern ordnungsgemäß eingeladen worden ist. Über die Sitzungen ist ein Protokoll zu führen, das von allen anwesenden Mitgliedern des Wahlausschusses zu unterzeichnen ist. Der Wahlausschuss tagt öffentlich. Der Wahlausschuss kann, um die Durchführung der Sitzung sicherzustellen, die Öffentlichkeit
+ausschließen.
+
+(8) Der Wahlausschuss kann sich für die Durchführung der Wahlen freiwillig Helfender aus der Studierendenschaft bedienen; Wahlbewerbende können nicht Wahlhelfende sein.
+
+(9) Der Fachschaftsrat beruft in Abstimmung mit der Wahlleitung die Fachschaftsvollversammlung vor der Wahl ein. Diese Wahlvollversammlung findet an einem Vorlesungstag mindestens acht Tage, höchstens aber 14 Tage, vor dem ersten Wahltag statt. Der Tagesordnungspunkt „Nominierung [,Vorstellung und Befragung] der kandidierenden Personen zur Wahl des Fachschaftsrates“ muss auf den Tagesordnungsvorschlag aufgenommen und auf der Sitzung aufgerufen werden.
+
+=== § 30 Wahlverzeichnis
+(1) Der Wahlausschuss stellt bei der Hochschulverwaltung den Antrag auf Erstellung eines Wahlverzeichnisses, wenn möglich elektronisch. Dieser Antrag erfolgt über das autonome Fachschaftenreferat. Alle Wahlberechtigten, welche eine Wahlberechtigung bis zum 21. Tag vor dem ersten Wahltag erworben haben, sind im Wahlverzeichnis mit dem Namen, dem Vornamen, dem Geburtsdatum und der Matrikelnummer aufzuführen. Die Gesamtzahl der aufgeführten Wahlberechtigten ist mit anzugeben. Bei der Aufstellung des Wahlverzeichnisses ist den Erfordernissen des Datenschutzes Rechnung zu tragen.
+
+(2) Das Wahlverzeichnis wird nach Abschluss des Wahlverfahrens unter Aufsicht der Wahlleitung vernichtet. Es darf nicht an Unbefugte weitergegeben werden, ist nur gegen schriftliche Bestätigung auszugeben und nach jedem Wahltag unter Verschluss zu nehmen.
+
+(3) Das Wahlverzeichnis ist vom 14. bis einschließlich 7. Tag vor dem ersten Wahltag im AStA Sekretariat innerhalb deren Öffnungszeiten zur Einsichtnahme auszulegen.
+
+(4) Einsprüche gegen die Richtigkeit des Wahlverzeichnisses können bei der Wahlleitung innerhalb der Auslagefrist schriftlich erklärt werden. Über den Einspruch entscheidet der Wahlausschuss.
+
+=== § 31 Wahlbekanntmachung
+(1) Die Wahlleitung macht die Wahlvollversammlung und die Wahl spätestens am 14. Tag vor der Wahlvollversammlung öffentlich durch Aushang an der für die Bekanntmachungen der Fachschaft vorgesehenen Aushangflächen bekannt. Darüber hinaus kann nach Maßgabe der Möglichkeiten durch sonstige Publikationen auf die Wahl hingewiesen werden.
+
+(2) Die Bekanntmachung muss mindestens enthalten:
+
+a. Ort und Datum ihrer Veröffentlichung,
+b. die Bezeichnung des zu wählenden Organs,
+c. die Wahltage,
+d. den Hinweis darauf, dass jedes Mitglied der Fachschaft gemäß xref:satzung::index.adoc#_29_wahl_und_abwahl_der_autonomen_referatsmitglieder_durch_die_arv[§29 der Satzung der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf] wahlberechtigt und wählbar ist,
+e. den Hinweis auf Ort und Zeit der Auslage des Wahlverzeichnisses,
+f. den Hinweis auf die Einspruchsmöglichkeit gegen die Richtigkeit des Wahlverzeichnisses,
+g. den Hinweis darauf, dass denjenigen, die nicht im Wahlverzeichnis aufgeführt sind, und die dagegen nicht fristgerecht Einspruch eingelegt haben, der Nachweis ihrer Wahlberechtigung obliegt,
+h. Orte und Zeiten der Stimmabgabe,
+i. die Zahl der zu wählenden Mitglieder,
+j. eine Darstellung des Wahlsystems,
+k. die Angabe von Ort und Zeit, wo und wann eine Wahl ohne Studierendenausweis möglich ist,
+l. einen Hinweis auf die Möglichkeit des Antrages auf Briefwahl sowie die Angabe, wie ein solcher Antrag gestellt werden kann, und die bei der Briefwahl zu beachtenden Fristen,
+m. Ort und Zeit der Wahlvollversammlung,
+n. die Frist, innerhalb derer Wahlvorschläge eingereicht werden können,
+o. den Hinweis, dass Wahlvorschläge an die Wahlleitung oder ein anderes Mitglied des Wahlausschusses zu richten sind, sowie Ort und Zeit der Entgegennahme,
+p. den Ort und den Termin der Auszählung der Stimmen.
+
+=== § 32 Wahlvorschläge
+(1) Die Wahlvorschläge können ab dem Tag der Veröffentlichung des Wahltermins bis zum Abschluss des Tagesordnungspunktes „Nominierung, Vorstellung und Befragung der kandidierenden Personen zur Wahl des Fachschaftsrates“ auf der Wahlvollversammlung abgegeben werden.
+
+(2) Die Wahlleitung veröffentlicht zwei Vorlesungstage vor der Wahlvollversammlung die bis dahin als gültig anerkannten Wahlvorschläge durch Aushang an der dafür vorgesehenen Aushangfläche, ergänzt durch den Hinweis auf die Möglichkeit der Nachnominierung bis zu der in <<_32_wahlvorschläge, § 32 Abs. 1>> genannten Frist. Nach Ablauf der Nominierungsfrist ist eine vollständige Auflistung aller gültigen Vorschläge unverzüglich durch Aushang an der dafür vorgesehenen Aushangfläche zu veröffentlichen.
+
+(3) Alle Wahlberechtigten können sich selbst oder andere Wahlberechtigte zur Wahl vorschlagen. Dem Wahlvorschlag ist eine Erklärung der Kandidierenden über das Einverständnis der Kandidatur beizufügen. Diese Erklärung kann schriftlich oder zur Niederschrift bei einem Mitglied des Wahlausschusses erfolgen.
+
+(4) Eine kandidierende Person darf nicht bereits Mitglied in einem anderen Fachschaftsrat sein oder gleichzeitig für einen anderen Fachschaftsrat kandidieren.
+
+(5) Der Wahlvorschlag muss den Namen, den Vornamen, die Anschrift und die Matrikelnummer der kandidierenden Person enthalten.
+
+(6) Wahlvorschläge, die fristgerecht eingereicht worden sind, jedoch nicht den Anforderungen genügen, sind unter Angabe der Gründe der Beanstandung in Textform unverzüglich an die kandidierende Person zurückzugeben. Damit ist die Aufforderung zu verbinden, die Mängel bis zum Ende der Frist nach <<_32_wahlvorschläge, § 32 Abs. 1>> zu beseitigen. Hat jemand einen Wahlvorschlag am letzten Tag der Frist eingereicht, verlängert sich diese um 24 Stunden. Werden die Mängel nicht fristgerecht beseitigt, so ist der Wahlvorschlag ungültig.
+
+(7) Die Reihenfolge der kandidierenden Personen auf dem Stimmzettel wird durch Los ermittelt. Dieses ist auf dem Stimmzettel zu vermerken.
+
+=== § 33 Wahlverfahren in Sonderfällen
+(1) Werden weniger als zwei Wahlvorschläge eingereicht oder entsprechen weniger als zwei der eingereichten Wahlvorschläge den Anforderungen, so wird unverzüglich das Wahlverfahren von den bestehenden Wahlorganen auf Grundlage des bereits aufgestellten Wahlverzeichnisses nach Maßgabe dieser Wahlordnung wiederholt. Insbesondere bestimmt der Wahlausschuss unverzüglich einen neuen Wahltermin.
+
+(2) Die gleichzeitige Wahl verschiedener Organe der Fachschaften und des Studierendenparlamentes ist möglich. Werden bei einer gleichzeitigen Wahl mehrerer Organe der Studierendenschaft dieselben Wahlurnen verwendet, müssen die Stimmzettel der einzelnen Wahlen deutlich zu unterscheiden sein.
+
+=== § 34 Wahlunterlagen
+(1) Bei der Wahl sind für diese Wahl hergestellte Stimmzettel sowie für die Briefwahl Wahlscheine, Wahlumschläge und Briefwahlumschläge zu verwenden. Außerdem ist ein Merkblatt mit Hinweisen zur Durchführung der Briefwahl zu erstellen (<<_36_briefwahl, § 36>>).
+
+(2) Die Unterlagen sind unverzüglich nach Ende der Nominierungsfrist für kandidierende Personen (<<_32_wahlvorschläge, § 32 Abs. 1>>) herzustellen und für die Briefwahl abzusenden. Für die Herstellung der Wahlunterlagen ist die Wahlleitung zuständig.
+
+(3) Der Stimmzettel enthält die Bezeichnung des zu wählenden Organs und die Namen der kandidierenden Personen gemäß <<_32_wahlvorschläge, § 32 Abs. 7>>.
+
+=== § 35 Urnenwahl
+(1) Die Urnenwahl findet innerhalb einer Kalenderwoche an drei bis fünf nicht vorlesungsfreien Tagen statt, von denen mindestens zwei aufeinander folgen müssen. Die Urne ist jeden Tag mindestens für zwei Stunden innerhalb der normalen Veranstaltungszeiten zu öffnen. Insgesamt darf die Öffnungszeit neun Stunden nicht unterschreiten. Falls mehr als eine Urne eingesetzt wird, muss ein Wahlbüro bestimmt werden, in welchem eine Urne am letzten Wahltag in der letzten Stunde der angesetzten Öffnungszeit geöffnet ist. Im Rahmen der Wahlzeit in Sätzen 1 bis 3 kann der Wahlausschuss die Öffnungszeiten frei festlegen.
+
+(2) Alle Wahlzeiten müssen in der Wahlbekanntmachung veröffentlicht werden. Die Urne ist zwischen den Wahlzeiten zu versiegeln.
+
+(3) Bei der Stimmabgabe hat die wählende Person ihren gültigen Personalausweis oder einen anderen amtlichen Ausweis mit Lichtbild vorzulegen. Ist die Wahl an mehr als einer Urne möglich, so ist zusätzlich der gültige Studierendenausweis vorzulegen (<<_35_urnenwahl, §35 Abs. 6 und 8>>).
+
+(4) Die wählende Person gibt ihre Stimme in der Weise ab, dass sie ihre Entscheidungen durch jeweils ein Kreuz bei den kandidierenden Personen ihrer Wahl eindeutig kenntlich macht. Die maximale Anzahl der Kreuze ergibt sich aus <<_28_wahlsystem_und_größe_des_fachschaftsrates, §28 Abs. 1>>.
+
+(5) Darauf wirft die wählende Person den gefalteten Stimmzettel in die Urne.
+
+(6) Bei der Stimmabgabe wird die Wahlberechtigung anhand des Wahlverzeichnisses geprüft und in diesem die Teilnahme an der Wahl vermerkt. Wer nicht im Wahlverzeichnis aufgeführt ist, die Mitgliedschaft zur Fachschaft (<<_26_wahlrecht_und_wählbarkeit, §26 Wahlrecht und Wählbarkeit>>) aber anderweitig nachweist, ist mit den entsprechenden Angaben unverzüglich in das Verzeichnis nachzutragen. Ist gemäß <<_35_urnenwahl, §35 Abs. 3 und 8>> die Wahl nur nach Vorlage des Studierendenausweises möglich, so ist die Wahl in diesem in jedem Falle zu vermerken. Die Stimmabgabe ist nur persönlich möglich.
+
+(7) Die Wahlhandlung ist öffentlich.
+
+(8) Für die Wahl zum Fachschaftsrat ist mindestens eine Urne aufzustellen. Der Wahlausschuss kann die Aufstellung weiterer Urnen bestimmen, maximal jedoch eine pro angefangene 500 Wahlberechtigte. Wird mehr als eine Urne aufgestellt, so ist bei der Stimmabgabe zusätzlich der Studierendenausweis vorzulegen (<<_35_urnenwahl, §35 Abs. 3 und 6>>). In diesem Falle ist nur am letzten Wahltag an einer Urne im Wahlbüro des Wahlausschusses die Wahl auch ohne Studierendenausweis möglich.
+
+=== § 36 Briefwahl
+(1) Wahlberechtigte können ihr Wahlrecht auch durch Briefwahl ausüben. Der Antrag auf Briefwahl ist an die Wahlleitung zu richten. Der Antrag muss Namen, Vornamen, Geburtsdatum sowie die postalische Adresse, an die die Briefwahlunterlagen versendet werden sollen, enthalten.
+
+(2) Der Antrag auf Teilnahme an der Briefwahl muss spätestens am 7. Tag vor Beginn der Wahl bei der Wahlleitung eingegangen sein.
+
+(3) Die per Brief wählenden Personen erhalten als Unterlagen den Stimmzettel, den Wahlschein, den Wahlumschlag, den Briefwahlumschlag sowie ein Merkblatt mit Hinweisen zur Durchführung der Briefwahl. Die Unterlagen sind unverzüglich nach Abschluss der Nominierungsfrist für kandidierende Personen (<<_32_wahlvorschläge, §32 Abs. 1>>) durch den Wahlausschuss abzusenden.
+
+(4) Die Briefwahlstimme muss bis Schluss der Urnenöffnungszeit des letzten Wahltages bei der Wahlleitung eingegangen sein (Ausschlussfrist).
+
+=== § 37 Wahlsicherung
+(1) Je zwei Mitglieder des Wahlausschusses verteilen die vom Wahlausschuss versiegelte(n) Urne(n) und die Wahlutensilien an die Wahlhelfenden.
+
+(2) Jede Wahlurne muss stets von mindestens zwei Wahlhelfenden besetzt sein, die für die ordnungsgemäße Durchführung der Wahl an dieser Urne verantwortlich sind.
+
+(3) Die Wahlhelfenden tragen in eine Liste die Zeit ein, in welcher sie die angewiesene Wahlurne beaufsichtigt haben. Sie bestätigen durch ihre Unterschrift, dass an ihrer Urne die Wahl während dieser Zeit ordnungsgemäß durchgeführt wurde.
+
+(4) An der Wahlurne werden zur Einsicht durch die wählenden Personen die Wahlordnung, die Wahlbekanntmachung und ein Muster des Stimmzettels ausgelegt.
+
+(5) Durch Aufstellen von Wahlkabinen ist dafür Sorge zu tragen, dass das Ausfüllen der Stimmzettel geheim erfolgen kann.
+
+(6) Nach Beendigung jedes Wahltages ist jede Urne durch den Wahlausschuss zu versiegeln und an einem sicheren Ort unter Verschluss zu nehmen.
+
+(7) Nach Abschluss der Wahl sind die Urnen vom Wahlausschuss wieder zu entsiegeln. Der Wahlausschuss hat die Unversehrtheit der Siegel in einem Protokoll festzuhalten.
+
+(8) Versiegelung und Entsiegelung erfolgen öffentlich.
+
+=== § 38 Wahlauszählung
+(1) Unmittelbar im Anschluss an die Wahl erfolgt die öffentliche Auszählung der Stimmen. Dabei wird zunächst die Teilnahme an der Briefwahl anhand der ordnungsgemäßen Wahlscheine im Wahlverzeichnis vermerkt. Wenn Wahlberechtigte, die von der Briefwahl Gebrauch gemacht haben, während der Wahlwoche an der Urne gewählt haben, wird der entsprechende Briefwahlumschlag nicht in die Auszählung miteinbezogen. Nach dieser Prüfung werden die Stimmzettel der Briefwahl mit den anderen Stimmzetteln gemischt und die Auszählung vorgenommen.
+
+(2) Ungültig sind Stimmzettel,
+
+a. die nicht als für die Wahl hergestellt erkennbar sind,
+b. die mehr Stimmen aufweisen als nach <<_28_wahlsystem_und_größe_des_fachschaftsrates, §28 Abs. 3>> zulässig sind,
+c. die <<_28_wahlsystem_und_größe_des_fachschaftsrates, §28 Abs. 3>> nicht genügen.
+
+(3) Ungültig sind Stimmen,
+
+a. die den Willen der wählenden Person nicht zweifelsfrei erkennen lassen,
+b. die einen Zusatz oder Vorbehalt enthalten.
+
+=== § 39 Veröffentlichung des Wahlergebnisses
+(1) Das Wahlergebnis ist unverzüglich öffentlich durch Aushang an den vorgesehenen Aushangflächen innerhalb der Fachschaft bekanntzumachen. Der scheidende Fachschaftsrat ist verpflichtet, auf den digitalen Kanälen, auf denen die Wahlbekanntmachung zusätzlich veröffentlicht wurde, auch das Ergebnis zusätzlich einzustellen. Das autonome Fachschaftenreferat ist innerhalb von 10 Tagen über das Wahlergebnis zu informieren.
+
+(2) Die Bekanntmachung des Wahlergebnisses muss enthalten:
+
+a. Ort und Zeit der Veröffentlichung,
+b. die Zahl der Wahlberechtigten,
+c. die Zahl der abgegebenen Stimmzettel,
+d. die Zahl der ungültigen Stimmzettel,
+e. die Zahl der gültigen Stimmzettel,
+f. die Zahl der gültigen Stimmen,
+g. die Zahl der auf alle einzelnen kandidierenden Personen entfallenden gültigen Stimmen,
+h. die Zahl der gewählten kandidierenden Personen und ihre Namen,
+i. den Namen und die Unterschrift der Wahlleitung.
+
+=== § 40 Gültigkeit der Wahl
+(1) Die Wahl ist mit der Bekanntmachung des Wahlergebnisses unbeschadet eines Wahlprüfungsverfahrens gültig.
+
+(2) Gegen die Gültigkeit der Wahl können alle Wahlberechtigten Einspruch erheben. Dieser muss innerhalb von 10 Tagen nach der Veröffentlichung des Wahlergebnisses bei der Wahlleitung eingegangen sein und kann über das autonome Fachschaftenreferat erfolgen. Entscheidend für die Fristwahrung ist der Eingang des Einspruches bei der Wahlleitung.
+
+(3) Über Einsprüche gegen die Gültigkeit der Wahl entscheidet der Wahlprüfungsausschuss der FSVK (<<_43_wahlprüfungsausschuss, § 43>>).
+
+(4) Wird die Feststellung des Wahlergebnisses für ungültig erachtet, so ist sie aufzuheben und eine Neufeststellung anzuordnen.
+
+(5) Die Wahl ist ganz oder teilweise für ungültig zu erklären, wenn wesentliche Bestimmungen über die Wahlvorbereitung, die Sitzverteilung, das Wahlrecht, die Wählbarkeit oder das Wahlverfahren verletzt worden sind, es sei denn, dass dieses sich nicht auf die Sitzverteilung ausgewirkt hat.
+
+(6) Wird im Wahlprüfungsverfahren die Wahl ganz oder teilweise für ungültig erklärt, so ist sie unverzüglich in dem in der Entscheidung bestimmten Umfang zu wiederholen. In diesem Fall kann der Wahlprüfungsausschuss im Einvernehmen mit dem scheidenden Fachschaftsrat einen neuen Wahlausschuss ernennen, der mit der Durchführung beauftragt wird.
+
+=== § 41 Ausscheiden von Mitgliedern
+(1) Scheidet ein gewähltes Mitglied des Fachschaftsrates vorzeitig aus, so rückt auf diesen Sitz die kandidierende Person entsprechend des Listenranges nach <<_28_wahlsystem_und_größe_des_fachschaftsrates, § 28>> auf.
+
+(2) Ist die Rangliste erschöpft, so vermindert sich die Zahl der Fachschaftsratsmitglieder entsprechend. Unterschreitet die Anzahl der verbleibenden Mitglieder des Fachschaftsrates die Zahl Zwei, so ist binnen von 40 nicht vorlesungsfreien Tagen eine Nachwahl durchzuführen.
+
+(3) Die Nachwahl erstreckt sich auf die nicht besetzten Sitze des Fachschaftsrates.
+
+(4) Tritt der gesamte Fachschaftsrat zurück, bleibt er bis zur Konstituierung des neuen Fachschaftsrates kommissarisch im Amt.
+
+=== § 42 Zusammentritt des Fachschaftsrates
+(1) Die Wahlleitung ruft die neu gewählten Mitglieder des Fachschaftsrates binnen 14 Werktagen nach Veröffentlichung des Wahlergebnisses zur konstituierenden Sitzung ein.
+
+(2) Der neu gewählte Fachschaftsrat ist verpflichtet, das ausgefüllte Konstituierungsprotokoll und das Wahlergebnis beim autonomen Fachschaftenreferat persönlich abzugeben.
+
+=== § 43 Wahlprüfungsausschuss
+(1) Die FSVK wählt einmal pro Jahr einen ständigen Wahlprüfungsausschuss, der über Einsprüche gegen die Gültigkeit der Wahl nach <<_40_gültigkeit_der_wahl, §40 Abs. 2>> entscheidet.
+
+(2) Der Wahlprüfungsausschuss hat fünf Mitglieder, wobei nicht mehr als zwei Mitglieder des Wahlprüfungsausschusses derselben Fachschaft angehören dürfen.
+
+(3) Das autonome Fachschaftenreferat darf nicht die Mehrheit des Wahlprüfungsausschusses stellen.
+
+(4) Der Wahlprüfungsausschuss entscheidet mit der einfachen Mehrheit seiner Mitglieder.
+
+(5) Mitglieder, die mit der Wahl betraut waren, oder Einspruch gegen die Wahl erhoben haben, zählen nicht zur Mehrheitsfindung und dürfen nicht bei der Beschlussfassung abstimmen.
+
+(6) Der Wahlprüfungsausschuss hat dafür Sorge zu tragen, dass ein Einspruch schnellstmöglich behandelt wird. Hierfür ist er an eine Einladungsfrist von mindestens 24 Stunden gebunden, sofern die Mitglieder des Wahlprüfungsausschusses vorher telefonisch informiert wurden. In der Einladung müssen Ort und Termin der Sitzung sowie ein Tagesordnungsvorschlag genannt werden.
+
+(7) Der Wahlprüfungsausschuss kann alle Wahlen der Fachschaften kontrollieren.
+
+(8) Der Wahlprüfungsausschuss hat folgende Befugnisse:
+
+a. Anordnung der Neuauszählung
+b. Anordnung der Neuwahl
+c. Anordnung der Neuwahl mit Neubesetzung einer oder mehrerer Personen des Wahlausschusses
+d. Ablehnung des Einspruchs
+e. Abbruch einer Wahl.
+
+=== § 44 Fachschaftsvertretung (FSV)
+(1) Eine Fachschaftsvertretung (s. xref:satzung::index.adoc#_37_einberufung_des_ra[§37 der Satzung]) wird entsprechend den Vorschriften unter Abschnitt II dieser Wahlordnung gewählt.
+
+(2) Die Zusammensetzung der Fachschaftsvertretung ergibt sich aus xref:satzung::index.adoc#_37_einberufung_des_ra[§37 Abs. 1 der Satzung der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf].
+
+(3) Abweichend von <<_28_wahlsystem_und_größe_des_fachschaftsrates, §28 Abs. 2>> stehen für den Fachschaftsrat einer Fachschaft mit einer Fachschaftsvertretung neun Sitze zur Verfügung.
+
+== IV. Übergangsbestimmungen
+=== § 45 Übergangsbestimmungen
+Zur erstmaligen Wahl eines Fachschaftsrates bestellt das Präsidium des Studierendenparlamentes im Einvernehmen mit der Fachschaft den Wahlausschuss. Die Wahlvollversammlung wird dann von der Wahlleitung einberufen.
