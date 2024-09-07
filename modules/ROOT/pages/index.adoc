@@ -1,5 +1,7 @@
 =  Wahlordnung für die Wahlen zu den Organen und Gremien der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf
 
+include::util::disclaimer.adoc[]
+
 == I. Allgemeines
 === § 1 Geltungsbereich
 Die Wahlordnung regelt die Wahlen zum Studierendenparlament, zu den Fachschaftsvertretungen, und zu den Fachschaftsräten und zum Rechtsausschuss innerhalb der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf.
