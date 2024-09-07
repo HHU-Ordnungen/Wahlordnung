@@ -9,7 +9,7 @@ Die Wahlordnung regelt die Wahlen zum Studierendenparlament, zu den Fachschaftsv
 Das Studierendenparlament (SP) wird von den Mitgliedern der Studierendenschaft der HeinrichHeine-Universität Düsseldorf in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt.
 
 === § 3 Wahlrecht und Wählbarkeit
-(1) Wahlberechtigt und wählbar sind alle Mitglieder der Studierendenschaft im Sinne von xref:satzung::index.adoc#_1_begriffsbestimmung_und_rechtsstellung[§ 1 Abs. 1 und 2 der Satzung der Studierendenschaft].
+(1) Wahlberechtigt und wählbar sind alle Mitglieder der Studierendenschaft im Sinne von xref:satzung::index.adoc#_1_begriffsbestimmung_und_rechtsstellung[§ 1 Abs. 1 der Satzung der Studierendenschaft].
 
 (2) Alle Wahlberechtigten, die ihre Mitgliedschaft spätestens am 42. Tag vor dem ersten Wahltag erworben haben, sind in das Wahlverzeichnis aufzunehmen. Wahlberechtigten, die ihre Mitgliedschaft später erworben haben oder im Wahlverzeichnis nicht aufgeführt sind, ohne hiergegen fristgerecht Einspruch erhoben zu haben (<<_8_wahlverzeichnis, § 8 Abs. 4>>), obliegt der Nachweis ihrer Wahlberechtigung.
 
@@ -33,13 +33,13 @@ Dem Studierendenparlament gehören 17 ordentliche Mitglieder und mit beratender 
 
 Das SP legt den Termin der SP-Wahl bis zum 31. Tag vor dem letzten Tag des dem Wahlsemester vorangehenden Semesters fest.
 
-(2) Dem Wahlausschuss gehören 5 Mitglieder an. Bei der Besetzung der Mitglieder und ihrer Stellvertretungen ist das Wahlergebnis des SP zu Grunde zu legen und sind die Sitze nach dem in <<_6_wahlsystem, § 6 Abs. 2>> beschriebenen Verfahren von Sainte-Laguë/Schepers an die Listen zu verteilen. Die Besetzung wird erst mit der Zustimmung der zur Besetzung vorgeschlagenen Person gültig.
+(2) Dem Wahlausschuss gehören 5 Mitglieder an. Bei der Besetzung der Mitglieder und ihrer Stellvertretungen findet xref:satzung::index.adoc#_15_wahl_und_zusammensetzung_des_sp[§ 15 Absatz 4 der Satzung] mit der Maßgabe Anwendung, dass die Fraktionsstärke zum Zeitpunkt der Beschlussfassung über den Wahltermin maßgeblich ist. Die Besetzung wird erst mit der Zustimmung der zur Besetzung vorgeschlagenen Person gültig.
 
 (3) Mitglieder des AStA sowie Kandidierende können dem Wahlausschuss nicht angehören. Mit ihrer Besetzung sind die Mitglieder des Wahlausschusses für die jeweilige Wahl von der Kandidatur ausgeschlossen, selbst wenn sie aus dem Wahlausschuss zurücktreten. Vor ihrer Zustimmung zur Besetzung nach <<_7_wahlausschuss, §7 Abs. 2>> muss die Person vom Präsidium auf die hier genannten Folgen der Mitgliedschaft im Wahlausschuss aufmerksam gemacht werden, diese Aufklärung muss schriftlich festgehalten werden.
 
 (4) Der Wahlausschuss wählt aus seiner Mitte eine den Wahlausschussvorsitz bekleidende Person. Diese sichert in Abstimmung mit der Universitätsverwaltung die technische Vorbereitung und Durchführung der Wahl. Die den Wahlausschussvorsitz bekleidende Person führt die Beschlüsse des Wahlausschusses aus. Sie informiert die Universitätsleitung über den Ablauf des Wahlverfahrens und über das Wahlergebnis.
 
-(5) Zu den Sitzungen lädt die den Wahlausschussvorsitz bekleidende Person die Mitglieder des Wahlausschusses in Textform ein. In der Wahlwoche tagt der Ausschuss täglich. Für die Sitzungen in der Wahlwoche sind keine gesonderten Einladungen nötig. Der Wahlausschuss ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig, sofern ordnungsgemäß eingeladen worden ist, bzw. in der Wahlwoche Termin und Tagungsort ordnungsgemäß mitgeteilt worden sind. Über die Sitzungen ist ein Protokoll zu führen, das von der Sitzungsleitung und der Protokollführung zu unterzeichnen ist. Dieses Protokoll muss nach den Regelungen der Geschäftsordnung des Parlaments versandt werden. Der Wahlausschuss tagt öffentlich. Er kann, um die Durchführung der Sitzung sicherzustellen, die Öffentlichkeit ausschließen.
+(5) Zu den Sitzungen lädt die den Wahlausschussvorsitz bekleidende Person die Mitglieder des Wahlausschusses in Textform ein. In der Wahlwoche tagt der Ausschuss täglich. Für die Sitzungen in der Wahlwoche sind keine gesonderten Einladungen nötig. Der Wahlausschuss ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig, sofern ordnungsgemäß eingeladen worden ist, bzw. in der Wahlwoche Termin und Tagungsort ordnungsgemäß mitgeteilt worden sind. Über die Sitzungen ist ein Protokoll zu führen, das von der Sitzungsleitung und der Protokollführung zu unterzeichnen ist. Im Übrigen gelten für den Wahlausschuss die Regelungen der Geschäftsordnung des SP für Ausschüsse. Der Wahlausschuss tagt öffentlich. Er kann, um die Durchführung der Sitzung sicherzustellen, die Öffentlichkeit ausschließen.
 
 (6) Der Wahlausschuss soll sich für die Durchführung der Wahlen, insbesondere die Besetzung der Wahlurnen und die Auszählung, Freiwilliger aus der Studierendenschaft bedienen; für diese Tätigkeit ist ein Erfrischungsgeld zu gewähren. Das Erfrischungsgeld ist auch Mitgliedern des Wahlausschusses zu gewähren, wenn diese die Aufgaben von Wahlhelfenden übernehmen. Kandidierende können nicht Wahlhelfende sein.
 
@@ -72,9 +72,10 @@ l. einen Hinweis auf die Möglichkeit eines Antrages auf Briefwahl sowie die Ang
 m. die Frist, innerhalb derer Wahlvorschläge eingereicht werden können,
 n. den Hinweis, dass Wahlvorschläge an die den Wahlausschussvorsitz bekleidenden Person zu richten sind, sowie Ort und Zeit der Entgegennahme,
 o. den Ort und den Termin der Auszählung der Stimmen.
+p. Angaben in welcher vom Wahlausschuss zugelassenen Weise der Nachweis der Wahlberechtigung an der Urne erbracht werden kann ohne im Wahlverzeichnis aufgeführt zu sein.
 
 === § 10 Wahlvorschläge
-(1) Die Wahlvorschläge (Listen) müssen spätestens am 33. Tag vor dem ersten Wahltag mittags um 12.00 Uhr beim Wahlausschuss eingegangen sein (Ausschlussfrist). Der Eingang ist vom Wahlausschuss zu bestätigen. Es ist zusätzlich eine digitale Abschrift in einem üblichen Dateiformat einzureichen.
+(1) Die Wahlvorschläge (Listen) müssen spätestens am 33. Tag vor dem ersten Wahltag mittags um 12.00 Uhr schriftlich beim Wahlausschuss eingegangen sein (Ausschlussfrist). Der Eingang ist vom Wahlausschuss zu bestätigen. Es ist zusätzlich eine digitale Abschrift in einem üblichen Dateiformat einzureichen.
 
 (2) Jede wahlberechtigte Person kann sich selbst oder andere Wahlberechtigte zur Wahl vorschlagen. Eine Liste kann auch aus nur einer Person bestehen. Mit dem Wahlvorschlag ist eine unwiderrufliche schriftliche Erklärung jeder kandidierenden Person einzureichen, dass sie der Aufnahme in den Wahlvorschlag zugestimmt hat. Von jeder kandidierenden Person ist auf je einem zusätzlichen Dokument das Einverständnis mit dem konkreten starren Listenplatz zu versichern.
 
@@ -99,7 +100,7 @@ Wird ein oder kein Wahlvorschlag eingereicht, entspricht einer oder keiner der e
 (3) Der Stimmzettel enthält die Bezeichnung der Wahllisten mit den Namen der Kandidierenden. Die Gestaltung der Stimmzettel entspricht <<_10_wahlvorschläge, § 10 Abs. 7>>.
 
 === § 13 Urnenwahl
-(1) Die Urnenwahl findet an fünf nicht vorlesungsfreien Tagen statt, von denen mindestens drei aufeinander folgen müssen. Für die Mindestanzahl an Urnen nach Abs. 7 gilt, dass sie jeweils mindestens sechs Stunden pro Tag innerhalb der normalen Veranstaltungszeiten geöffnet sein müssen. Zusätzliche Urnen nach Abs. 7 dürfen kürzer geöffnet sein. Nach dem Schließen der regulären Urnen ist an jedem Wahltag für 30 Minuten die Wahl auch ohne Studierendenausweis an der Urne im Wahlbüro möglich. Diese Urnenöffnungszeit darf nicht später als eine Stunde nach Schließen der letzten regulären Urne beginnen.
+(1) Die Urnenwahl findet an fünf nicht vorlesungsfreien Tagen innerhalb einer Kalenderwoche statt. Für die Mindestanzahl an Urnen nach Abs. 7 gilt, dass sie jeweils mindestens sechs Stunden pro Tag innerhalb der normalen Veranstaltungszeiten geöffnet sein müssen. Zusätzliche Urnen nach Abs. 7 dürfen kürzer geöffnet sein. Nach dem Schließen der regulären Urnen ist an jedem Wahltag für 30 Minuten die Wahl auch ohne Studierendenausweis an der Urne im Wahlbüro möglich. Diese Urnenöffnungszeit darf nicht später als eine Stunde nach Schließen der letzten regulären Urne beginnen.
 
 (2) Bei der Stimmabgabe haben die wählenden Personen ihren gültigen Personalausweis oder einen anderen gültigen amtlichen Ausweis mit Lichtbild sowie den Studierendenausweis vorzulegen.
 
@@ -107,7 +108,7 @@ Wird ein oder kein Wahlvorschlag eingereicht, entspricht einer oder keiner der e
 
 (4) Darauf wirft die wählende Person den gefalteten Stimmzettel in die Wahlurne.
 
-(5) Bei der Stimmabgabe wird die Wahlberechtigung anhand des zentralen Wahlverzeichnisses geprüft und in diesem die Teilnahme an der Wahl vermerkt. Wer nicht im Wahlverzeichnis aufgeführt ist, die Wahlberechtigung aber mittels des Studierendenausweises nachweist, ist mit den entsprechenden Angaben unverzüglich in das Verzeichnis nachzutragen. Die Stimmabgabe ist nur persönlich möglich.
+(5) Bei der Stimmabgabe wird die Wahlberechtigung anhand des zentralen Wahlverzeichnisses geprüft und in diesem die Teilnahme an der Wahl vermerkt. Wer nicht im Wahlverzeichnis aufgeführt ist, den Nachweis der Wahlberechtigung aber in einer vom Wahlausschuss zugelassenen Weise erbringen kann, ist mit den entsprechenden Angaben unverzüglich in das Verzeichnis nachzutragen. Die Stimmabgabe ist nur persönlich möglich.
 
 (6) Die Wahlhandlung findet im öffentlichen Raum statt.
 
@@ -229,7 +230,7 @@ Scheidet ein gewähltes ordentliches oder stellvertretendes Mitglied aus, so rü
 Das Präsidium des scheidenden SP ruft die neu gewählten Mitglieder des Studierendenparlamentes unverzüglich zur konstituierenden Sitzung ein, die spätestens zwei Wochen nach Veröffentlichung des Wahlergebnisses stattzufinden hat. Es leitet diese Sitzung bis zur Wahl des neuen Präsidiums. Ist das Präsidium des scheidenden SP verhindert oder anderweitig nicht in der Lage dazu, übernimmt die Wahlleitung die Aufgaben nach Satz 1 und 2.
 
 === § 23 Vorgezogene Neuwahlen
-Wird das SP gem. xref:satzung::index.adoc#_16_die_fraktionen_des_sp[§ 16 der Satzung] aufgelöst, legt das SP abweichend von <<_7_wahlausschuss, § 7 Abs. 1>> den Termin der SP-Wahl vor seiner Auflösung fest. Abweichend von <<_7_wahlausschuss, § 7 Abs. 1 Satz 4>> findet die konstituierende Sitzung des Wahlausschusses spätestens 10 Tage nach der Auflösung des SP statt. Des Weiteren gelten folgende veränderte Fristen:
+Findet gemäß xref:satzung::index.adoc#_16_die_fraktionen_des_sp[§ 16 der Satzung] eine Neuwahl vorzeitig statt, legt das SP abweichend von <<_7_wahlausschuss, § 7 Absatz 1>> den Termin der Wahl unverzüglich fest. Abweichend von <<_7_wahlausschuss, § 7 Abs. 1 Satz 4>> findet die konstituierende Sitzung des Wahlausschusses spätestens 10 Tage nach Festlegen des Wahltermins statt. Des Weiteren gelten folgende veränderte Fristen:
 
 a. in <<_8_wahlverzeichnis, § 8 Abs. 1 Satz 2>> statt dem 42. der 21. Tag vor dem ersten Wahltag
 b. in <<_8_wahlverzeichnis, § 8 Abs. 3>> statt dem 35. bis einschließlich 29. der 14. bis einschließlich 8. Tag vor der Wahl,
@@ -299,7 +300,7 @@ b. auf jede kandidierende Person eine Positivstimme oder eine Negativstimme abge
 
 (6) Der Wahlausschuss wählt aus seiner Mitte als den Wahlausschussvorsitz bekleidende Person eine Wahlleitung. Diese sichert in Abstimmung mit der Universitätsverwaltung und bei Bedarf mit Unterstützung durch das autonome Fachschaftenreferat die technische Vorbereitung und Durchführung der Wahl. Die Wahlleitung führt die Beschlüsse des Wahlausschusses aus.
 
-(7) Zu den Sitzungen lädt die Wahlleitung die Mitglieder des Wahlausschusses schriftlich ein. Der Wahlausschuss ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig, sofern ordnungsgemäß eingeladen worden ist. Über die Sitzungen ist ein Protokoll zu führen, das von allen anwesenden Mitgliedern des Wahlausschusses zu unterzeichnen ist. Der Wahlausschuss tagt öffentlich. Der Wahlausschuss kann, um die Durchführung der Sitzung sicherzustellen, die Öffentlichkeit
+(7) Zu den Sitzungen lädt die Wahlleitung die Mitglieder des Wahlausschusses in Textform ein. Der Wahlausschuss ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig, sofern ordnungsgemäß eingeladen worden ist. Über die Sitzungen ist ein Protokoll zu führen, das von allen anwesenden Mitgliedern des Wahlausschusses zu unterzeichnen ist. Der Wahlausschuss tagt öffentlich. Der Wahlausschuss kann, um die Durchführung der Sitzung sicherzustellen, die Öffentlichkeit
 ausschließen.
 
 (8) Der Wahlausschuss kann sich für die Durchführung der Wahlen freiwillig Helfender aus der Studierendenschaft bedienen; Wahlbewerbende können nicht Wahlhelfende sein.
@@ -336,6 +337,7 @@ m. Ort und Zeit der Wahlvollversammlung,
 n. die Frist, innerhalb derer Wahlvorschläge eingereicht werden können,
 o. den Hinweis, dass Wahlvorschläge an die Wahlleitung oder ein anderes Mitglied des Wahlausschusses zu richten sind, sowie Ort und Zeit der Entgegennahme,
 p. den Ort und den Termin der Auszählung der Stimmen.
+q. Angaben in welcher vom Wahlausschuss zugelassenen Weise der Nachweis der Wahlberechtigung an Urne erbracht werden kann ohne im Wahlverzeichnis aufgeführt zu sein.
 
 === § 32 Wahlvorschläge
 (1) Die Wahlvorschläge können ab dem Tag der Veröffentlichung des Wahltermins bis zum Abschluss des Tagesordnungspunktes „Nominierung, Vorstellung und Befragung der kandidierenden Personen zur Wahl des Fachschaftsrates“ auf der Wahlvollversammlung abgegeben werden.
@@ -355,7 +357,7 @@ p. den Ort und den Termin der Auszählung der Stimmen.
 === § 33 Wahlverfahren in Sonderfällen
 (1) Werden weniger als zwei Wahlvorschläge eingereicht oder entsprechen weniger als zwei der eingereichten Wahlvorschläge den Anforderungen, so wird unverzüglich das Wahlverfahren von den bestehenden Wahlorganen auf Grundlage des bereits aufgestellten Wahlverzeichnisses nach Maßgabe dieser Wahlordnung wiederholt. Insbesondere bestimmt der Wahlausschuss unverzüglich einen neuen Wahltermin.
 
-(2) Die gleichzeitige Wahl verschiedener Organe der Fachschaften und des Studierendenparlamentes ist möglich. Werden bei einer gleichzeitigen Wahl mehrerer Organe der Studierendenschaft dieselben Wahlurnen verwendet, müssen die Stimmzettel der einzelnen Wahlen deutlich zu unterscheiden sein.
+(2) Die gleichzeitige Wahl des Studierendenparlamentes und von Fachschaftsorganen ist möglich. Werden bei einer gleichzeitigen Wahl dieselben Wahlurnen verwendet, müssen die Stimmzettel der einzelnen Wahlen deutlich zu unterscheiden sein.
 
 === § 34 Wahlunterlagen
 (1) Bei der Wahl sind für diese Wahl hergestellte Stimmzettel sowie für die Briefwahl Wahlscheine, Wahlumschläge und Briefwahlumschläge zu verwenden. Außerdem ist ein Merkblatt mit Hinweisen zur Durchführung der Briefwahl zu erstellen (<<_36_briefwahl, § 36>>).
@@ -375,7 +377,7 @@ p. den Ort und den Termin der Auszählung der Stimmen.
 
 (5) Darauf wirft die wählende Person den gefalteten Stimmzettel in die Urne.
 
-(6) Bei der Stimmabgabe wird die Wahlberechtigung anhand des Wahlverzeichnisses geprüft und in diesem die Teilnahme an der Wahl vermerkt. Wer nicht im Wahlverzeichnis aufgeführt ist, die Mitgliedschaft zur Fachschaft (<<_26_wahlrecht_und_wählbarkeit, §26 Wahlrecht und Wählbarkeit>>) aber anderweitig nachweist, ist mit den entsprechenden Angaben unverzüglich in das Verzeichnis nachzutragen. Ist gemäß <<_35_urnenwahl, §35 Abs. 3 und 8>> die Wahl nur nach Vorlage des Studierendenausweises möglich, so ist die Wahl in diesem in jedem Falle zu vermerken. Die Stimmabgabe ist nur persönlich möglich.
+(6) Bei der Stimmabgabe wird die Wahlberechtigung anhand des Wahlverzeichnisses geprüft und in diesem die Teilnahme an der Wahl vermerkt. Werden mehr als eine Urne gleichzeitig eingesetzt, ist die Wahlberechtigung an jeder Urne anhand eines einzigen zentralen Wahlverzeichnis zu prüfen. Wer nicht im Wahlverzeichnis aufgeführt ist, den Nachweis der Mitgliedschaft zur Fachschaft (<<_26_wahlrecht_und_wählbarkeit, § 26 Wahlrecht und Wählbarkeit>>) aber in einer vom Wahlausschuss zugelassenen Weise erbringen kann, ist mit den entsprechenden Angaben unverzüglich in das Verzeichnis nachzutragen. Die Stimmabgabe ist nur persönlich möglich.
 
 (7) Die Wahlhandlung ist öffentlich.
 
@@ -495,4 +497,6 @@ e. Abbruch einer Wahl.
 
 == IV. Übergangsbestimmungen
 === § 45 Übergangsbestimmungen
-Zur erstmaligen Wahl eines Fachschaftsrates bestellt das Präsidium des Studierendenparlamentes im Einvernehmen mit der Fachschaft den Wahlausschuss. Die Wahlvollversammlung wird dann von der Wahlleitung einberufen.
+(1) Zur erstmaligen Wahl eines Fachschaftsrates bestellt das Präsidium des Studierendenparlamentes im Einvernehmen mit der Fachschaft den Wahlausschuss. Die Wahlvollversammlung wird dann von der Wahlleitung einberufen.
+
+(2) Für die Wahlen zum Studierendenparlament im Juni 2020 findet xref:0@wahlordnung::index.adoc#_7_wahlausschuss[§ 7 Absatz 2] in der Fassung der Bekanntmachung vom 07.02.2019 (veröffentlicht in den Amtlichen Bekanntmachungen Nr. 7/2019) Anwendung.
