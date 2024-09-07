@@ -1,11 +1,10 @@
 =  Wahlordnung für die Wahlen zu den Organen und Gremien der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf
 
-== I. Allgemeines
+== Abschnitt I. Allgemeines
 === § 1 Geltungsbereich
 Die Wahlordnung regelt die Wahlen zum Studierendenparlament, zu den Fachschaftsvertretungen, und zu den Fachschaftsräten und zum Rechtsausschuss innerhalb der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf.
 
-== Abschnitt II Wahlen zu den Organen der Fachschaften
-=== Unterschnitt 1 Wahlen zu den Fachschaftsräten
+== Abschnitt II. Wahlen zum Studierendenparlament
 === § 2 Wahlgrundsätze
 Das Studierendenparlament (SP) wird von den Mitgliedern der Studierendenschaft der HeinrichHeine-Universität Düsseldorf in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt.
 
@@ -261,41 +260,13 @@ h. in <<_14_briefwahl, § 14 Absatz 3 Satz 1>> statt dem 14. der 7. Tag vor dem 
 
 (6) Ein Antrag auf Wahlkampfkostenerstattung kann für ab dem Sommersemester 2018 durchgeführte Wahlen zum Studierendenparlament gestellt werden.
 
-=== § 24a Sonderwahlverfahren in der COVID-19-Pandemie: Anzahl der Urnen
-(1) Abweichend von <<_13_urnenwahl, § 13 Absatz 7 Satz 1>> können weniger als sieben Urnen aufgestellt werden. Der Wahlausschuss berücksichtigt bei seiner Entscheidung über die Anzahl der Urnen insbesondere die voraussichtliche Anzahl an anwesenden Studierenden auf dem Campus im Vergleich zur Anzahl vor der COVID-19-Pandemie.
-
-(2) Auch nach der Bekanntmachung der Wahl kann der Wahlausschuss eine Erhöhung oder Verringerung der Anzahl der Urnen beschließen. Die Wahlbekanntmachung ist in diesem Fall zu ändern und erneut bekannt zu machen. Die erneute Bekanntmachung muss spätestens am 7. Tag vor dem ersten Wahltag erfolgen.
-
-=== § 24b Sonderwahlverfahren in der COVID-19-Pandemie: Angeordnete Briefwahl
-(1) Das SP kann beschließen, dass die Wahl nur durch Briefwahl erfolgt und keine Urnenwahl stattfindet (angeordnete Briefwahl). Die festgelegten Wahltage der Urnenwahl werden zur Bestimmung der Fristen weiterhin herangezogen.
-
-(2) Stellt der Wahlausschuss fest, dass die SP-Wahl voraussichtlich ordnungsgemäß oder auf Grund infektionsschutzrechtlicher Vorschriften nur als angeordnete Briefwahl durchgeführt werden kann oder aus Gründen des Infektionsschutzes eine angeordnete Briefwahl angezeigt ist und erklärt der SPPräsidiumsvorsitz, dass einem rechtzeitigem Zusammentreten des SP unüberwindbare Hindernisse entgegenstehen, oder ist das SP beschlussunfähig, so kann auch der Wahlausschuss mit der Mehrheit seiner stimmberechtigten Mitglieder eine angeordnete Briefwahl beschließen. Ab dem 21. Tag vor dem ersten Wahltag gilt, dass dem rechtzeitigen Zusammentreten des SP unüberwindbare Hindernisse entgegenstehen. Eine Erklärung des Vorsitz braucht es dann nicht.
-
-(3) In der Wahlbekanntmachung wird ausdrücklich auf das besondere Wahlverfahren hingewiesen. Die Angaben nach <<_9_wahlbekanntmachung, § 9 Absatz 2 Buchstabe c, h, k und p>> entfallen. Auch nach der Bekanntmachung der Wahl kann eine angeordnete Briefwahl beschlossen werden. Die Wahlbekanntmachung ist in diesem Fall zu ändern und erneut bekannt zu machen. Die erneute Bekanntmachung muss spätestens am 7. Tag vor dem ersten Wahltag erfolgen.
-
-(4) Es gelten folgende veränderte Fristen:
-
-1. in <<_14_briefwahl, § 14 Absatz 2 Satz 1>> (Antragsfrist für Briefwahl) statt dem 21. Tag vor dem ersten Wahltag der 9. Tag vor der Eingangsfrist für die Briefwahlstimmen, die abweichende Frist nach <<_14_briefwahl, § 14 Absatz 2 Satz 2>> entfällt;
-2. in <<_14_briefwahl, § 14 Absatz 6 Satz 1>> (Eingangsfrist für die Briefwahlstimmen) statt dem Ende der letzten Öffnungszeit einer Urne am letzten Wahltag ein vom Wahlausschuss festzulegender Zeitpunkt im Zeitraum zwischen dem letzten ursprünglich festgelegten Wahltag und 12 Tagen danach;
-3. in <<_17_wahlauszählung, § 17 Absatz 1 Satz 1>> (Zeitpunkt der Wahlauszählung) statt unmittelbar im Anschluss an die Wahl unverzüglich nach der Eingangsfrist für die Briefwahlstimmen.
-Die Eingangsfrist für die Briefwahlstimmen ist so zu wählen, dass zwischen der Bekanntmachung der Anordnung der Briefwahl und der Eingangsfrist mindestens 21 Tage liegen.
-
-(5) Abweichend von <<_14_briefwahl, § 14 Absatz 3>> sind für alle bis zum 21. Tag vor der Eingangsfrist für die Briefwahlstimmen eingehende Anträge die Briefwahlunterlagen spätestens am 14. Tag vor der Eingangsfrist zu versenden. Für später eingehende Anträge sind die Briefwahlunterlagen unverzüglich, spätestens jedoch am 8. Tag vor der Eingangsfrist zu versenden. Die Zusendung erfolgt ausschließlich postalisch.
-
-(6) Stellt eine Person einen Antrag auf Briefwahl, welchem der Wahlausschuss mangels Eintrag im Wahlverzeichnis nicht statt gibt, so ist der Person auch entgegen Absatz 4 Nummer 1 eine Nachfrist von mindestens 48 Stunden ab Bekanntgabe der Ablehnung zu gewähren, um ihre Wahlberechtigung in geeigneter Weise nachzuweisen.“
-
-[CAUTION]
-.Nach Artikel II Amtliche Bekanntmachung Nr.29/2021 vom 18.5.2021
-====
-Die §§ <<_24a_sonderwahlverfahren_in_der_covid_19_pandemie_anzahl_der_urnen, 24a>> und <<_24b_sonderwahlverfahren_in_der_covid_19_pandemie_angeordnete_briefwahl, 24b>> der Wahlordnung für die Wahlen zu den Organen und Gremien der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf vom 07. Februar 2019 (https://www.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2019/2019_03_13_AB_7.pdf[Amtliche Bekanntmachung 7/2019], Seite 2), zuletzt geändert durch Artikel I dieser Ordnung, werden mit Ablauf des 30. September 2021 aufgehoben.
-====
-
-== III. Wahlen zu den Organen der Fachschaften
+== Abschnitt III. Wahlen zu den Organen der Fachschaften
+=== Unterabschnitt 1 Wahlen zu den Fachschaftsräten
 === § 25 Wahlgrundsätze
-Die Fachschaftsräte werden von den Mitgliedern der entsprechenden Fachschaft der Heinrich-Heine Universität Düsseldorf in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl nach den Grundsätzen der Zustimmungswahl gewählt, sofern ein Fachschaftsrat nicht von der Fachschaftsvertretung gewählt wird.
+Die Fachschaftsräte oder Fachschaftsvertretungen werden von den Mitgliedern der entsprechenden Fachschaft der Heinrich-Heine Universität Düsseldorf in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl nach den Grundsätzen der Zustimmungswahl gewählt, sofern ein Fachschaftsrat nicht von der Fachschaftsvertretung gewählt wird.
 
 === § 26 Wahlrecht und Wählbarkeit
-(1) Wahlberechtigt und wählbar sind die Mitglieder der Fachschaft im Sinne von xref:satzung::index.adoc#_44_fachschaften[§ 44 Absatz 1 der Satzung der Studierendenschaft] in Verbindung mit den Bestimmungen der xref:zuordnungsordnung::index.adoc[Zuordnungsordnung der Studierendenschaft].
+(1) Wahlberechtigt und wählbar sind die Mitglieder der Fachschaft im Sinne von xref:satzung::index.adoc#_44_fachschaften[§ 44 der Satzung der Studierendenschaft] in Verbindung mit den Bestimmungen der Zuordnungsordnung der Studierendenschaft. Jedes Mitglied der Studierendenschaft darf nur Mitglied in Fachschaftsrat und ggf. Fachschaftsvertretung einer einzigen Fachschaft sein.
 
 (2) Alle Wahlberechtigten, die ihre Mitgliedschaft spätestens am 21. Tag vor dem ersten Wahltag erworben haben, sind in das Wahlverzeichnis aufzunehmen. Wahlberechtigten, die ihre Mitgliedschaft später erworben haben oder im Wahlverzeichnis nicht aufgeführt sind, ohne hiergegen fristgerecht Einspruch erhoben zu haben (<<_30_wahlverzeichnis, § 30 Abs. 4>>), obliegt der Nachweis ihrer Wahlberechtigung.
 
@@ -382,11 +353,11 @@ q. Angaben in welcher vom Wahlausschuss zugelassenen Weise der Nachweis der Wahl
 
 (2) Die Wahlleitung veröffentlicht zwei Vorlesungstage vor der Wahlvollversammlung die bis dahin als gültig anerkannten Wahlvorschläge durch Aushang an der dafür vorgesehenen Aushangfläche, ergänzt durch den Hinweis auf die Möglichkeit der Nachnominierung bis zu der in <<_32_wahlvorschläge, § 32 Abs. 1>> genannten Frist. Nach Ablauf der Nominierungsfrist ist eine vollständige Auflistung aller gültigen Vorschläge unverzüglich durch Aushang an der dafür vorgesehenen Aushangfläche zu veröffentlichen.
 
-(3) Alle Wahlberechtigten können sich selbst oder andere Wahlberechtigte zur Wahl vorschlagen. Dem Wahlvorschlag ist eine Erklärung der Kandidierenden über das Einverständnis der Kandidatur beizufügen. Diese Erklärung kann schriftlich oder zur Niederschrift bei einem Mitglied des Wahlausschusses erfolgen.
+(3) Alle Wahlberechtigten können sich selbst oder andere Wahlberechtigte zur Wahl vorschlagen. Dem Wahlvorschlag ist eine Erklärung der Kandidierenden über das Einverständnis der Kandidatur beizufügen. Diese Erklärung kann schriftlich oder zur Niederschrift bei einem Mitglied des Wahlausschusses erfolgen. Bei Wahlvorschlägen kann die Erklärung der Kandidierenden über das Einverständnis der Kandidatur auch separat durch Bestätigung per E-Mail an den Wahlausschuss über ihre HHU-Mailadresse erfolgen.
 
-(4) Eine kandidierende Person darf nicht bereits Mitglied in einem anderen Fachschaftsrat sein oder gleichzeitig für einen anderen Fachschaftsrat kandidieren.
+(4) Eine kandidierende Person darf nicht bereits Mitglied in einem anderen Fachschaftsrat oder einer anderen FSV sein oder gleichzeitig für einen anderen Fachschaftsrat oder eine andere FSV kandidieren.
 
-(5) Der Wahlvorschlag muss den Namen, den Vornamen, die Anschrift und die Matrikelnummer der kandidierenden Person enthalten.
+(5) Der Wahlvorschlag muss den Namen, den Vornamen, die Anschrift, eine Uni-Mail-Adresse und die Matrikelnummer der kandidierenden Person enthalten.
 
 (6) Wahlvorschläge, die fristgerecht eingereicht worden sind, jedoch nicht den Anforderungen genügen, sind unter Angabe der Gründe der Beanstandung in Textform unverzüglich an die kandidierende Person zurückzugeben. Damit ist die Aufforderung zu verbinden, die Mängel bis zum Ende der Frist nach <<_32_wahlvorschläge, § 32 Abs. 1>> zu beseitigen. Hat jemand einen Wahlvorschlag am letzten Tag der Frist eingereicht, verlängert sich diese um 24 Stunden. Werden die Mängel nicht fristgerecht beseitigt, so ist der Wahlvorschlag ungültig.
 
@@ -405,7 +376,7 @@ q. Angaben in welcher vom Wahlausschuss zugelassenen Weise der Nachweis der Wahl
 (3) Der Stimmzettel enthält die Bezeichnung des zu wählenden Organs und die Namen der kandidierenden Personen gemäß <<_32_wahlvorschläge, § 32 Abs. 7>>.
 
 === § 35 Urnenwahl
-(1) Die Urnenwahl findet innerhalb einer Kalenderwoche an drei bis fünf nicht vorlesungsfreien Tagen statt, von denen mindestens zwei aufeinander folgen müssen. Die Urne ist jeden Tag mindestens für zwei Stunden innerhalb der normalen Veranstaltungszeiten zu öffnen. Insgesamt darf die Öffnungszeit neun Stunden nicht unterschreiten. Falls mehr als eine Urne eingesetzt wird, muss ein Wahlbüro bestimmt werden, in welchem eine Urne am letzten Wahltag in der letzten Stunde der angesetzten Öffnungszeit geöffnet ist. Im Rahmen der Wahlzeit in Sätzen 1 bis 3 kann der Wahlausschuss die Öffnungszeiten frei festlegen.
+(1) Die Urnenwahl findet innerhalb einer Kalenderwoche an drei bis fünf nicht vorlesungsfreien Tagen statt, von denen mindestens zwei aufeinander folgen müssen. Die Urne ist jeden Tag mindestens für zwei Stunden am Stück innerhalb der normalen Veranstaltungszeiten zu öffnen. Insgesamt darf die Öffnungszeit neun Stunden nicht unterschreiten. Falls mehr als eine Urne eingesetzt wird, muss ein Wahlbüro bestimmt werden, in welchem eine Urne am letzten Wahltag in der letzten Stunde der angesetzten Öffnungszeit geöffnet ist. Im Rahmen der Wahlzeit in Sätzen 1 bis 3 kann der Wahlausschuss die Öffnungszeiten frei festlegen.
 
 (2) Alle Wahlzeiten müssen in der Wahlbekanntmachung veröffentlicht werden. Die Urne ist zwischen den Wahlzeiten zu versiegeln.
 
@@ -464,7 +435,7 @@ a. die den Willen der wählenden Person nicht zweifelsfrei erkennen lassen,
 b. die einen Zusatz oder Vorbehalt enthalten.
 
 === § 39 Veröffentlichung des Wahlergebnisses
-(1) „Das Wahlergebnis ist unverzüglich öffentlich durch an den üblichen Veröffentlichungsstellen der Fachschaft bekanntzumachen. Der scheidende Fachschaftsrat ist verpflichtet, auf den digitalen Kanälen, auf denen die Wahlbekanntmachung zusätzlich veröffentlicht wurde, auch das Ergebnis zusätzlich einzustellen. Das autonome Fachschaftenreferat ist innerhalb von 10 Tagen über das Wahlergebnis zu informieren.
+(1) „Das Wahlergebnis ist unverzüglich öffentlich durch an den üblichen Veröffentlichungsstellen der Fachschaft bekanntzumachen. Der scheidende Fachschaftsrat ist verpflichtet, auf den digitalen Kanälen, auf denen die Wahlbekanntmachung zusätzlich veröffentlicht wurde, auch das Ergebnis zusätzlich einzustellen. Das autonome Fachschaftenreferat ist durch den Wahlausschuss innerhalb von 10 Tagen über das Wahlergebnis zu informieren.
 
 (2) Die Bekanntmachung des Wahlergebnisses muss enthalten:
 
@@ -527,55 +498,32 @@ d. Ablehnung des Einspruchs
 e. Abbruch einer Wahl.
 
 === Unterabschnitt 2 Wahlen zur Fachschaftsvertretung
-=== § 44 Wahlgrundsätze
-Die Fachschaftsvertretungen werden von den Mitgliedern der entsprechenden Fachschaft der HeinrichHeine-Universität Düsseldorf in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl nachden Grundsätzen der nicht übertragbaren Einzelstimmgebung gewählt.
+=== § 44 Wahlen zur Fachschaftsvertretung
 
-=== § 44a Wahlrecht und Wählbarkeit
-Wahlberechtigt und wählbar sind die Mitglieder der Fachschaft im Sinne von xref:satzung::index.adoc#_44_fachschaften[§ 44 Absatz 1 der Satzung der Studierendenschaft] in Verbindung mit den Bestimmungen der xref:zuordnungsordnung::index.adoc[Zuordnungsordnung der Studierendenschaft].
+(1) Sieht die Satzung einer Fachschaft eine Fachschaftsvertretung (FSV) als weiteres Organ der Fachschaft nach xref:satzung::index.adoc#_46_organe_einer_fachschaft[§ 46 Absatz 2 der Satzung der Studierendenschaft] vor, so gilt Folgendes:
 
-=== § 44b Wahlsystem
-(1) Die zur Verfügung stehenden Sitze werden nach dem Prinzip der nicht übertragbaren Einzelstimmgebung vergeben. Jede wahlberechtigte Person hat genau eine Stimme, die sie einer kandidierenden Person geben kann.
+(2) Die Wahl der FSV erfolgt entsprechend den Vorschriften der Satzung (xref:satzung::index.adoc#_63_aufgaben_und_zuständigkeit_der_fsv[§§ 63 – 68]) und dem <<_unterabschnitt_1_wahlen_zu_den_fachschaftsräten, Abschnitt III, Unterabschnitt I>> dieser Wahlordnung, ausgenommen <<_28_wahlsystem_und_größe_des_fachschaftsrates, § 28>> (Wahlsystem) und <<_42_zusammentritt_des_fachschaftsrates, § 42>> (Zusammentritt). Dabei tritt die FSV an die Stelle des Fachschaftsrats und es gelten folgende zusätzliche oder abweichende Regelungen:
 
-(2) Gewählt sind die kandidierenden Personen mit den meisten Stimmen. Hierzu wird eine Reihung der kandidierenden Personen gemäß der erreichten Stimmen vorgenommen. Die Sitze werden den kandidierenden Personen in der Reihenfolge der von ihnen erreichten Stimmen zugeteilt. Bei identischer Anzahl an Stimmen entscheidet das Los über den Rang.
+(3) Es findet keine Wahlvollversammlung (<<_29_wahlausschuss, § 29 Absatz 9>>) statt. Die Wahlbekanntmachung muss entsprechend keine Angaben dazu enthalten. Zur Ermittlung von Fristen tritt der 14. Tag vor dem ersten Wahltag an die Stelle der Wahlvollversammlung.
 
-=== § 44c Anwendung der Vorschriften für die Wahlen der Fachschaftsräte
-(1) Die Vorschriften für die Wahlen der Fachschaftsräte über das Wahlverzeichnis (<<_26_wahlrecht_und_wählbarkeit, § 26 Absatz 2>> und <<_30_wahlverzeichnis, § 30>>), den Wahlkreis (<<_27_wahlkreis, § 27>>), den Wahlausschuss (<<_29_wahlausschuss, § 29>>), die Wahlbekanntmachung (<<_31_wahlbekanntmachung, § 31>>), die Wahlvorschläge (<<_32_wahlvorschläge, § 32>> mit Ausnahme von Absatz 4), das Wahlverfahren in Sonderfällen (<<_33_wahlverfahren_in_sonderfällen, § 33>> mit Ausnahme von Absatz 1), die Wahlunterlagen (<<_34_wahlunterlagen, § 34>>), die Urnenwahl (<<_35_urnenwahl, § 35>>), die Briefwahl (<<_36_briefwahl, § 36>>), die Wahlsicherung (<<_37_wahlsicherung, § 37>>), die Wahlauszählung (<<_38_wahlauszählung, § 38>> mit Ausnahme von Absatz 2), die Veröffentlichung des Wahlergebnisses (<<_39_veröffentlichung_des_wahlergebnisses, § 39>>), die Gültigkeit der Wahl (<<_40_gültigkeit_der_wahl, § 40>>), den Zusammentritt des Fachschaftsrates (<<_42_zusammentritt_des_fachschaftsrates, § 42>>), den Wahlprüfungsausschuss (<<_43a_sonderwahlverfahren_in_der_covid_19_pandemie, § 43>>) gelten entsprechend, sofern in den folgenden Absätze nicht etwas anderes bestimmt wird. An die Stelle des Fachschaftsrates tritt die Fachschaftsvertretung.
+(4) Abweichend von <<_30_wahlverzeichnis, § 30 Absatz 3>> kann das Wahlverzeichnis im Büro der FSV und innerhalb in der Wahlbekanntmachung angezeigter Öffnungszeiten zur Einsichtnahme ausliegen. Dabei ist eine Gesamtöffnungszeit von 4 Stunden nicht zu unterschreiten.
 
-(2) Die Einberufung einer Wahlvollversammlung ist nicht verpflichtend. Findet keine Wahlvollversammlung statt, ist die Wahlbekanntmachung spätestens am 21. Tag vor dem ersten Wahltag bekanntzumachen und die Wahlvorschläge spätestens am 8. Tag vor dem ersten Wahltag einzureichen.
-(3) Es müssen mehr gültige Wahlvorschläge vorliegen als Sitze zur Verfügung stehen. Werden weniger oder gleich viele Wahlvorschläge vorgelegt, so wird unverzüglich das Wahlverfahren von den bestehenden Wahlorganen auf Grundlage des bereits aufgestellten Wahlverzeichnisses nach Maßgabe dieser Wahlordnung wiederholt. Insbesondere bestimmt der Wahlausschuss unverzüglich einen neuen Wahltermin.
+(5) Die Mindestanzahl von gültigen Wahlvorschlägen (<<_33_wahlverfahren_in_sonderfällen, § 33 Absatz 1>>) und von Mitgliedern der FSV (<<_41_ausscheiden_von_mitgliedern, § 41 Absatz 2>>) erhöht sich auf elf.
 
-(4) Ungültig sind Stimmzettel, die nicht als für die Wahl hergestellt erkennbar sind.
+(6) Bei der Stimmabgabe darf nur eine Stimme für eine kandidierende Person abgegeben werden. Abweichend von <<_35_urnenwahl, § 35 Absatz 4>> ist nur ein einziges Kreuz für eine Person zu machen und die maximale Anzahl an Kreuzen ist eins.
 
-=== § 43a Sonderwahlverfahren in der COVID-19-Pandemie
-(1) Bei Wahlen zum Fachschaftsrat kann der Wahlausschuss bis zur Bekanntmachung der Wahl mit einfacher Mehrheit seiner Mitglieder beschließen, dass die Wahl nur durch Briefwahl erfolgt und keine Urnenwahl stattfindet. Die durch den Fachschaftsrat mit der Bestimmung des Wahlausschusses festgelegte Wahltage werden zur Bestimmung der Fristen weiterhin herangezogen.
+(7) <<_38_wahlauszählung, § 38 Absatz 2 und 3>> findet keine Anwendung. Ungültig sind Stimmzettel,
 
-(2) In diesem Fall gelten folgende veränderte Fristen:
+a. die nicht als für die Wahl hergestellt erkennbar sind,
+b. die nicht genau eine Stimme aufweisen,
+c. die den Willen der wählenden Person nicht zweifelsfrei erkennen lassen,
+d. die einen Zusatz oder Vorbehalt enthalten.
 
-a. in <<_36_briefwahl, § 36 Absatz 2 Satz 1>> (Antragsfrist für Briefwahl) statt dem 7. Tag vor Beginn der Wahl der 9. Tag vor der Eingangsfrist für die Briefwahlstimmen, die abweichende Frist nach <<_36_briefwahl, § 36 Absatz 2 Satz 2>> entfällt;
-b. in <<_36_briefwahl, § 36 Absatz 5>> (Eingangsfrist für die Briefwahlstimmen) statt dem Schluss der Urnenöffnungszeit ein vom Wahlausschuss festzulegender Zeitpunkt innerhalb der normalen Veranstaltungszeiten und 6 bis 8 Tage nach dem letzten ursprünglich festgelegten Wahltag;
-c. in <<_38_wahlauszählung, § 38 Absatz 1>> (Zeitpunkt der Wahlauszählung) im Anschluss an die Eingangsfrist für Briefwahlstimmen anstelle von im Anschluss an die Wahl.
+(8) Gewählt sind die 15 kandidierenden Personen, die die meisten Stimmen erhalten haben. Bei Stimmengleichheit entscheidet das Los über die Reihenfolge. Sind mehr Sitze zu verteilen, als gewählte kandidierende Personen vorhanden sind, bleiben diese Sitze unbesetzt. Die Mitgliederzahl der FSV vermindert sich entsprechend. Nach Satz 1 nicht gewählte kandidierende Personen sind nachrückende Personen in der Reihenfolge ihres Stimmrangs.
 
-(3) Bei Wahlvorschlägen kann die Erklärung der Kandidierenden über das Einverständnis der Kandidatur abweichend von <<_32_wahlvorschläge, § 32 Absatz 3 Satz 3>> auch separat durch Bestätigung per E-Mail an den Wahlausschuss über ihre HHU-Mailadresse erfolgen.
+(9) Der Wahlausschuss ruft die neu gewählten Mitglieder der FSV binnen 14 Werktagen nach Veröffentlichung des Wahlergebnisses zur konstituierenden Sitzung ein. In der konstituierenden Sitzung wird von den Mitgliedern der FSV der neue Fachschaftsrat gewählt.
 
-(4) In der Wahlbekanntmachung wird ausdrücklich auf das besondere Wahlverfahren hingewiesen. Die Angaben nach <<_31_wahlbekanntmachung, § 31 Absatz 2>> Buchstaben c, h, k und q entfallen. Statt der Angabe von Ort und Zeit nach Buchstabe o wird eine Kontaktmöglichkeit zur Einreichung von Wahlvorschlägen angegeben, unter welcher der Wahlausschuss zu erreichen ist.
-
-(5) Stellt eine Person einen Antrag auf Briefwahl, welchem der Wahlausschuss mangels Eintrag im Wahlverzeichnis nicht stattgibt, so hat die Person auch entgegen Absatz 2 Buchstabe a ab Bekanntgabe der Ablehnung mindestens 48 Stunden Zeit, ihre Wahlberechtigung in geeigneter Weise nachzuweisen.
-
-(6) Nach der Wahlordnung vorgeschriebene Aushänge sind digital auf den üblichen Kommunikationswegen der Fachschaft bekanntzumachen, mindestens jedoch auf der Website der Fachschaft sofern vorhanden. Dabei hat der Fachschaftsrat den Wahlausschuss zu unterstützen. Aushänge in der Universität sind nur erforderlich, sofern es die Gegebenheiten ermöglichen.
-
-[CAUTION]
-.Nach Artikel II Amtliche Bekanntmachung Nr.1/2021 vom 4.1.2021
-====
-<<_43a_sonderwahlverfahren_in_der_covid_19_pandemie, § 43a der Wahlordnung für die Wahlen zu den Organen und Gremien der Studierendenschaft>> der Heinrich-Heine-Universität Düsseldorf vom 07. Februar 2019 (https://www.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2019/2019_03_13_AB_7.pdf[Amtliche Bekanntmachung 7/2019], Seite 2), zuletzt geändert durch Artikel I dieser Ordnung, wird mit Ablauf des 30. September 2021 aufgehoben.
-====
-
-[CAUTION]
-.Nach Artikel II Amtliche Bekanntmachung Nr.46/2021 vom 10.9.2021
-====
-Die xref:4@wahlordnung::index.adoc[Vierte Ordnung zur Änderung der Wahlordnung für die Wahlen zu den Organen und Gremien der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf] vom 4. Januar 2021 (https://www.hhu.de/die-hhu/presse-und-marketing/aktuelles/pressemeldungen-der-hhu/news-detailansicht/nr-1-2021[Amtliche Bekanntmachung Nr. 1/2021], S. 2) wird wie folgt geändert:
-
-In Artikel II wird die Angabe „xref:4@wahlordnung::index.adoc#_44a_sonderwahlverfahren_in_der_covid_19_pandemie[§ 44a]“ durch die Angabe „§ 43a“ ersetzt.
-====
+(10) Für den Fachschaftsrat stehen 9 Sitze zur Verfügung. Die Satzung der Fachschaft kann eine abweichende Zahl festlegen. Der Fachschaftsrat ist verpflichtet, das ausgefüllte Konstituierungsprotokoll und das Wahlergebnis beim autonomen Fachschaftenreferat persönlich abzugeben.
 
 == Abschnitt IV Wahlen zum Rechtsausschuss
 === Unterabschnitt 1 Allgemeine Vorschriften
@@ -663,5 +611,3 @@ stand. Standen im zweiten Wahlgang mehrere Kandidierende zur Wahl, stehen im dri
 (2) Die Abwahl ist erfolgreich, wenn auf den Antrag in geheimer Abstimmung eine zwei Drittel Mehrheit der Abstimmenden, mindestens die Mehrheit der satzungsgemäßen Mitglieder, entfällt.
 
 (3) Über eine erfolgreiche Abwahl ist der Rechtsausschuss und das SP-Präsidium durch das Fachschaftenreferat unverzüglich zu unterrichten.
-
-== V. Übergangsbestimmungen
