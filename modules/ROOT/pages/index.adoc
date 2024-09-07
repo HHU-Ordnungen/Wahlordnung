@@ -260,6 +260,35 @@ h. in <<_14_briefwahl, § 14 Absatz 3 Satz 1>> statt dem 14. der 7. Tag vor dem 
 
 (6) Ein Antrag auf Wahlkampfkostenerstattung kann für ab dem Sommersemester 2018 durchgeführte Wahlen zum Studierendenparlament gestellt werden.
 
+=== § 24a Sonderwahlverfahren in der COVID-19-Pandemie: Anzahl der Urnen
+(1) Abweichend von <<_13_urnenwahl, § 13 Absatz 7 Satz 1>> können weniger als sieben Urnen aufgestellt werden. Der Wahlausschuss berücksichtigt bei seiner Entscheidung über die Anzahl der Urnen insbesondere die voraussichtliche Anzahl an anwesenden Studierenden auf dem Campus im Vergleich zur Anzahl vor der COVID-19-Pandemie.
+
+(2) Auch nach der Bekanntmachung der Wahl kann der Wahlausschuss eine Erhöhung oder Verringerung der Anzahl der Urnen beschließen. Die Wahlbekanntmachung ist in diesem Fall zu ändern und erneut bekannt zu machen. Die erneute Bekanntmachung muss spätestens am 7. Tag vor dem ersten Wahltag erfolgen.
+
+=== § 24b Sonderwahlverfahren in der COVID-19-Pandemie: Angeordnete Briefwahl
+(1) Das SP kann beschließen, dass die Wahl nur durch Briefwahl erfolgt und keine Urnenwahl stattfindet (angeordnete Briefwahl). Die festgelegten Wahltage der Urnenwahl werden zur Bestimmung der Fristen weiterhin herangezogen.
+
+(2) Stellt der Wahlausschuss fest, dass die SP-Wahl voraussichtlich ordnungsgemäß oder auf Grund infektionsschutzrechtlicher Vorschriften nur als angeordnete Briefwahl durchgeführt werden kann oder aus Gründen des Infektionsschutzes eine angeordnete Briefwahl angezeigt ist und erklärt der SPPräsidiumsvorsitz, dass einem rechtzeitigem Zusammentreten des SP unüberwindbare Hindernisse entgegenstehen, oder ist das SP beschlussunfähig, so kann auch der Wahlausschuss mit der Mehrheit seiner stimmberechtigten Mitglieder eine angeordnete Briefwahl beschließen. Ab dem 21. Tag vor dem ersten Wahltag gilt, dass dem rechtzeitigen Zusammentreten des SP unüberwindbare Hindernisse entgegenstehen. Eine Erklärung des Vorsitz braucht es dann nicht.
+
+(3) In der Wahlbekanntmachung wird ausdrücklich auf das besondere Wahlverfahren hingewiesen. Die Angaben nach <<_9_wahlbekanntmachung, § 9 Absatz 2 Buchstabe c, h, k und p>> entfallen. Auch nach der Bekanntmachung der Wahl kann eine angeordnete Briefwahl beschlossen werden. Die Wahlbekanntmachung ist in diesem Fall zu ändern und erneut bekannt zu machen. Die erneute Bekanntmachung muss spätestens am 7. Tag vor dem ersten Wahltag erfolgen.
+
+(4) Es gelten folgende veränderte Fristen:
+
+1. in <<_14_briefwahl, § 14 Absatz 2 Satz 1>> (Antragsfrist für Briefwahl) statt dem 21. Tag vor dem ersten Wahltag der 9. Tag vor der Eingangsfrist für die Briefwahlstimmen, die abweichende Frist nach § 14 Absatz 2 Satz 2 entfällt;
+2. in <<_14_briefwahl, § 14 Absatz 6 Satz 1>> (Eingangsfrist für die Briefwahlstimmen) statt dem Ende der letzten Öffnungszeit einer Urne am letzten Wahltag ein vom Wahlausschuss festzulegender Zeitpunkt im Zeitraum zwischen dem letzten ursprünglich festgelegten Wahltag und 12 Tagen danach;
+3. in <<_17_wahlauszählung, § 17 Absatz 1 Satz 1>> (Zeitpunkt der Wahlauszählung) statt unmittelbar im Anschluss an die Wahl unverzüglich nach der Eingangsfrist für die Briefwahlstimmen.
+Die Eingangsfrist für die Briefwahlstimmen ist so zu wählen, dass zwischen der Bekanntmachung der Anordnung der Briefwahl und der Eingangsfrist mindestens 21 Tage liegen.
+
+(5) Abweichend von <<_14_briefwahl, § 14 Absatz 3>> sind für alle bis zum 21. Tag vor der Eingangsfrist für die Briefwahlstimmen eingehende Anträge die Briefwahlunterlagen spätestens am 14. Tag vor der Eingangsfrist zu versenden. Für später eingehende Anträge sind die Briefwahlunterlagen unverzüglich, spätestens jedoch am 8. Tag vor der Eingangsfrist zu versenden. Die Zusendung erfolgt ausschließlich postalisch.
+
+(6) Stellt eine Person einen Antrag auf Briefwahl, welchem der Wahlausschuss mangels Eintrag im Wahlverzeichnis nicht statt gibt, so ist der Person auch entgegen Absatz 4 Nummer 1 eine Nachfrist von mindestens 48 Stunden ab Bekanntgabe der Ablehnung zu gewähren, um ihre Wahlberechtigung in geeigneter Weise nachzuweisen.“
+
+[CAUTION]
+.Nach Artikel II Amtliche Bekanntmachung Nr.29/2021 vom 18.5.2021
+====
+Die §§ <<_24a_sonderwahlverfahren_in_der_covid_19_pandemie_anzahl_der_urnen, 24a>> und <<_24b_sonderwahlverfahren_in_der_covid_19_pandemie_angeordnete_briefwahl, 24b>> der Wahlordnung für die Wahlen zu den Organen und Gremien der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf vom 07. Februar 2019 (https://www.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2019/2019_03_13_AB_7.pdf[Amtliche Bekanntmachung 7/2019], Seite 2), zuletzt geändert durch Artikel I dieser Ordnung, werden mit Ablauf des 30. September 2021 aufgehoben.
+====
+
 == III. Wahlen zu den Organen der Fachschaften
 === § 25 Wahlgrundsätze
 Die Fachschaftsräte werden von den Mitgliedern der entsprechenden Fachschaft der Heinrich-Heine Universität Düsseldorf in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl nach den Grundsätzen der Mehrheitswahl gewählt.
