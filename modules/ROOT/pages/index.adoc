@@ -1,6 +1,6 @@
 =  Wahlordnung für die Wahlen zu den Organen und Gremien der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf
 
-include:util::disclaimer.adoc[]
+include::util::disclaimer.adoc[]
 
 WARNING: Arbeitsfassung zur einführung von Regenbogenwahlen
 
