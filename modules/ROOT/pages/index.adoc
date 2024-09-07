@@ -2,7 +2,7 @@
 
 == I. Allgemeines
 === § 1 Geltungsbereich
-Die Wahlordnung regelt die Wahlen zum Studierendenparlament, zu den Fachschaftsvertretungen und zu den Fachschaftsräten der Heinrich-Heine-Universität Düsseldorf.
+Die Wahlordnung regelt die Wahlen zum Studierendenparlament, zu den Fachschaftsvertretungen, und zu den Fachschaftsräten und zum Rechtsausschuss innerhalb der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf.
 
 == II. Wahlen zum Studierendenparlament
 === § 2 Wahlgrundsätze
@@ -228,7 +228,9 @@ d. die aktualisierte Fassung des Leitfadens zur Wahldurchführung (WA-Reader).
 (4) Das Vorliegen der Bedingungen nach Abs. 2 ist in einem Übergabeprotokoll zu dokumentieren.
 
 === § 21 Ausscheiden von Mitgliedern
-Scheidet ein gewähltes ordentliches oder stellvertretendes Mitglied aus, so rücken die Kandidierenden eines Wahlvorschlages entsprechend des Listenplatzes jeweils einen Platz auf. Die Amtszeit eines Mitgliedes des Studierendenparlamentes endet vorzeitig durch Exmatrikulation, Rücktritt, der dem SPPräsidium schriftlich mitzuteilen ist, oder Tod. Scheidet ein durch Austritt oder Ausschluss fraktionslos gewordenes Mitglied aus dem SP aus, so ist im Rahmen von Satz 1 der Wahlvorschlag maßgeblich, durch welchen das fraktionslose Mitglied sein Mandat erhalten hat. Satz 3 gilt auch, wenn sich das fraktionslos gewordene Mitglied einer anderen Fraktion im Parlament angeschlossen hat. Ist die Wahlliste erschöpft, so bleibt der Sitz unbesetzt. Die Zahl der Sitze im Studierendenparlament vermindert sich entsprechend.
+(1) Scheidet ein gewähltes ordentliches oder stellvertretendes Mitglied aus, so rücken die Kandidierenden des Wahlvorschlages des ausgeschiedenen Mitgliedes entsprechend des Listenplatzes jeweils einen Platz auf. Ist der Wahlvorschlag erschöpft, so bleibt der Sitz unbesetzt. Die Zahl der Sitze im Studierendenparlament vermindert sich entsprechend.
+
+(2) Die Kandidierenden eines Wahlvorschlages können jederzeit schriftlich gegenüber dem SP-Präsidium unwiderruflich erklären, für die aktuelle Wahlperiode auf einen Sitz im SP zu verzichten. In diesem Fall bleiben sie beim Aufrücken nach Absatz 1 Satz 1 unberücksichtigt und können nicht mehr Mitglied werden.
 
 === § 22 Zusammentritt des Studierendenparlamentes
 Das Präsidium des scheidenden SP ruft die neu gewählten Mitglieder des Studierendenparlamentes unverzüglich zur konstituierenden Sitzung ein, die spätestens zwei Wochen nach Veröffentlichung des Wahlergebnisses stattzufinden hat. Es leitet diese Sitzung bis zur Wahl des neuen Präsidiums. Ist das Präsidium des scheidenden SP verhindert oder anderweitig nicht in der Lage dazu, übernimmt die Wahlleitung die Aufgaben nach Satz 1 und 2.
@@ -524,8 +526,95 @@ c. in § 38 Absatz 1 (Zeitpunkt der Wahlauszählung) im Anschluss an die Eingang
 <<_44a_sonderwahlverfahren_in_der_covid_19_pandemie, § 44a der Wahlordnung für die Wahlen zu den Organen und Gremien der Studierendenschaft>> der Heinrich-Heine-Universität Düsseldorf vom 07. Februar 2019 (https://www.hhu.de/fileadmin/redaktion/ZUV/Justitiariat/Amtliche_Bekanntmachungen/2019/2019_03_13_AB_7.pdf[Amtliche Bekanntmachung 7/2019], Seite 2), zuletzt geändert durch Artikel I dieser Ordnung, wird mit Ablauf des 30. September 2021 aufgehoben.
 ====
 
-== IV. Übergangsbestimmungen
-=== § 45 Übergangsbestimmungen
+== Abschnitt IV Wahlen zum Rechtsausschuss
+=== Unterabschnitt 1 Allgemeine Vorschriften
+=== § 45 Wählbarkeit
+Wählbar sind alle Mitglieder der Studierendenschaft im Sinne von xref:satzung::index.adoc#_1_begriffsbestimmung_und_rechtsstellung[§ 1 Absatz 1 der Satzung der Studierendenschaft], soweit sie nicht nach xref:satzung::index.adoc#_27_die_autonomen_referate[§ 27 Absatz 2 der Satzung] von der Mitgliedschaft im Rechtsausschuss ausgeschlossen sind. Die Wählbarkeit ist vor der Wahl der Sitzungsleitung der Wahlsitzung nachzuweisen.
+
+=== § 46 Wahlablauf
+(1) Die Wahl des Rechtsausschusses soll von dem SP und der FSVK so rechtzeitig vorgenommen werden, dass der neue Rechtsausschuss zu Beginn der Amtszeit vollständig gewählt ist.
+
+(2) Kandidierende werden von den Vorschlagsberechtigten des zu wählenden Sitzes vorgeschlagen. Werden keine Kandidierende vorgeschlagen, so ist die Wahl auf die nächste Sitzung zu vertagen.
+
+(3) Fünf Sitze des Rechtsausschusses werden vom SP gewählt. Zwei Sitze des Rechtsausschusses werden von der FSVK gewählt. Die Wahlen erfolgen geheim.
+
+(4) Die Wahl einer Person ist gültig, wenn sie in einem Wahlgang die vorgeschriebene ausreichende Anzahl an Stimmen erhält und die Wahl annimmt.
+
+(5) Die gewählten Mitglieder sind von der Sitzungsleitung der Wahlsitzung dem SP-Präsidium mitzuteilen.
+
+=== § 47 Konstituierung des Rechtsausschusses
+Zu Beginn der Amtszeit lädt der SP-Präsidiumsvorsitz zur konstituierenden Sitzung des Rechtsausschusses ein. Bis zur Wahl eines Ausschussvorsitzes wird die Sitzung vom SP-Präsidiumsvorsitz geleitet. Dies gilt entsprechend, wenn während der Amtszeit sämtliche Mitglieder nachgewählt worden sind.
+
+== Unterabschnitt 2 Wahl des Rechtsausschusses im SP
+== § 48 Vorschlagberechtigung
+(1) Das Vorschlagsrecht für einen Sitz steht genau einer Fraktion zu, indem die Sitze des Rechtsausschusses verhältnismäßig nach der Fraktionsstärke den Fraktionen zugeteilt werden.
+
+(2) Für die Zuteilung eines Sitzes werden zunächst der rechnerische Sitzanspruch für jede Fraktion gemäß <<_49_ermittlung_der_sitzanspruchszahl, § 49>> (Sitzanspruchszahl) und für jede Fraktion die bereits der Fraktion zugeteilten Sitze gemäß <<_50_ermittlung_der_sitzzahl, § 50>> (Sitzzahl) ermittelt. Sodann wird für jede Fraktion von ihrer Sitzanspruchszahl die Sitzzahl abgezogen. Die Fraktion mit der höchsten Differenz wird der Sitz zugeteilt. Haben mehrere Fraktionen die gleich hohe Differenz, so entscheidet das von der Sitzungsleitung auf einer SP-Sitzung zu ziehende Los. (Laps-Verfahren)
+
+(3) Ein Sitz wird unmittelbar vor der Wahl einer Fraktion zugeteilt. Ein Sitz wird in folgenden Fällen erneut zugeteilt:
+
+a. Das bisher auf diesen Sitz gewählte Mitglied des Rechtsausschusses scheidet gemäß xref:satzung::index.adoc#_27_die_autonomen_referate[§ 27 Absatz 4 der Satzung] vorzeitig aus dem Amt.
+b. Auf den Sitz ist seit der Zuteilung einer Fraktion noch keine Person gültig gewählt worden und die Fraktionsstärke bezüglich der ordentlichen Mitglieder des SP der Fraktion, der der Sitz zugeteilt ist, ändert sich.
+
+=== § 49 Ermittlung der Sitzanspruchszahl
+(1) Zur Ermittlung der Sitzanspruchsanzahl werden die vom SP zu wählenden fünf Sitze den Fraktionen nach dem Verfahren von Sainte-Laguë/Schepers zugeordnet. Die Addition der einer Fraktion zugeordneten Sitze ergibt die Sitzanspruchszahl dieser Fraktion.
+
+(2) Für die Zuteilung der Sitze werden je Fraktion die zu einer Fraktion gehörenden ordentlichen Mitglieder des SP zusammengezählt. Anhand dieser Mitgliedszahl wird für jede Fraktion nach der Reihenfolge der Höchstzahlen, die sich durch Teilung durch 0,5 - 1,5 - 2,5 und so weiter in EinerSchritten ergibt (Höchstzahlverfahren), festgestellt, wie viele der Sitze jeweils den Fraktionen zugeordnet werden.
+
+(3) Ergeben sich bei der Zuordnung der letzten Sitze eine gleiche Höchstzahl für mehr Fraktionen als noch Sitze zu zuordnen sind, so werden diese Sitze gleichmäßig als Bruchteil den Fraktionen mit gleicher Höchstzahl zugeordnet, indem die Anzahl der noch nicht zugeordneten Sitze durch die Anzahl der Fraktionen mit gleicher Höchstzahl geteilt wird.
+
+=== § 50 Ermittlung der Sitzzahl
+(1) Zur Ermittlung der Sitzzahl werden die Sitze, die bereits einer Fraktion zugeteilt sind, geteilt und die entstehenden Bruchteile eines Sitzes ordentlichen Mitgliedern des SP zugeordnet. Die Addition der zugeordneten Bruchteile der ordentlichen Mitglieder des SP einer Fraktion ergibt die Sitzzahl dieser Fraktion.
+
+(2) Ein bereits zugeteilter Sitz wird durch die Anzahl der ordentlichen Mitglieder, die die Fraktion, der der Sitz zugeteilt worden ist, zum Zeitpunkt der Zuteilung des Sitzes hatte, geteilt. Die so entstehenden Bruchteile werden gleichmäßig den ordentlichen Mitgliedern, die die Fraktion zum Zeitpunkt der Zuteilung des Sitzes hatte, zugeordnet.
+
+(3) Ist ein ordentliches Mitglied nach dem Zeitpunkt einer Zuteilung aus dem SP ausgeschieden, so tritt an die Stelle des ausgeschiedenen Mitglieds das Mitglied, welches für das ausgeschiedene Mitglied zum ordentlichen Mitglied aufgerückt ist. Dies gilt entsprechend, wenn auch das aufgerückte Mitglied aus dem SP ausgeschieden ist.
+
+(4) Rückt kein Mitglied für ein ausgeschiedenes Mitglied nach, so bleibt der Bruchteil unberücksichtigt und wird keinem Mitglied zugeordnet.
+
+=== § 51 Wahlsystem
+(1) Die Sitze werden nach dem Prinzip der Mehrheitswahl einzeln gewählt.
+
+(2) Die für einen Sitz vorschlagsberechtigte Fraktion kann je Wahlgang für diesen Sitz höchstens eine Person vorschlagen.
+
+(3) Es kann für die vorgeschlagene Person, mit „Nein“ oder mit „Enthaltung“ gestimmt werden. Gewählt ist die vorgeschlagene Person, wenn sie die Stimmen der Mehrheit der satzungsgemäßen Mitglieder erhält.
+
+(4) Wird im ersten Wahlgang die vorgeschlagene Person nicht gewählt, so findet auf Wunsch der vorschlagenden Fraktion ein zweiter Wahlgang statt. Findet auch im zweiten Wahlgang die vorgeschlagene Person nicht die notwendige Mehrheit, so ist für jeden weiteren Wahlgang mit der gleichen vorgeschlagenen Person zuvor die Zustimmung des SP einzuholen. Wird von der vorschlagenden Fraktion eine andere Person vorgeschlagen, so beginnt die Wahl erneut mit dem ersten Wahlgang.
+
+=== § 52 Abwahlen
+(1) Eine Abwahl erfolgt auf Antrag. Der Antrag ist von mindestens einem Drittel der ordentlichen Mitglieder des SP zu stellen oder von einer Fraktion oder mehreren Fraktionen, die mindestens ein Drittel der ordentlichen Mitglieder auf sich vereinen.
+
+(2) Die Abwahl ist erfolgreich, wenn auf den Antrag in geheimer Abstimmung die Mehrheit von mindestens zwei Drittel der satzungsgemäßen Mitglieder entfällt. Für die Abwahl von Mitgliedern, die von der FSVK gewählt worden sind, genügt die einfache Mehrheit der Abstimmenden.
+
+(3) Über eine erfolgreiche Abwahl ist der Rechtsausschuss durch das SP-Präsidium unverzüglich zu unterrichten. Bei Abwahlen von Mitgliedern, die von der FSVK gewählt worden sind, ist zusätzlich das Fachschaftenreferat über die erfolgreiche Abwahl zu unterrichten.
+
+=== Unterabschnitt 3 Wahl des Rechtsausschusses in der FSVK
+=== § 53 Vorschlagberechtigung
+Die nach xref:satzung::index.adoc#_39_allgemeine_verfahrensregeln_des_ra[§ 39 Absatz 2 der Satzung] benannten Personen und ihre Stellvertretungen, sowie die Mitglieder des Fachschaftenreferat sind für die von der FSVK gewählten Sitze vorschlagsberechtigt.
+
+=== § 54 Wahlsystem
+(1) Die Sitze werden einzeln nach dem Prinzip der Mehrheitswahl gewählt.
+
+(2) Es kann für die vorgeschlagene Person, mit „Nein“ oder mit „Enthaltung“ gestimmt werden.
+
+(3) Im ersten Wahlgang ist gewählt, wer die Stimmen der Mehrheit der satzungsgemäßen Mitglieder erhält.
+
+(4) Im zweiten Wahlgang kann nur zur Wahl stehen, wer auch im ersten Wahlgang zur Wahl stand. Gewählt ist, wer die Stimmen der Mehrheit der satzungsgemäßen Mitglieder erhält.
+
+(5) Im dritten Wahlgang kann nur zur Wahl stehen, wer auch im zweiten Wahlgang zur Wahl
+stand. Standen im zweiten Wahlgang mehrere Kandidierende zur Wahl, stehen im dritten Wahlgang nur die Kandidierenden mit der höchsten Stimmenzahl im zweiten Wahlgang, mindestens aber zwei Personen, zur Wahl.
+
+(6) Ist nach dem dritten Wahlgang keine Person gewählt ist entweder die Wahl zu vertagen oder die gesamte Wahl beginnend mit dem Vorschlagen von Kandidierenden zu wiederholen.
+
+=== § 55 Abwahlen
+(1) Eine Abwahl erfolgt auf Antrag. Der Antrag ist von mindestens einem Drittel der satzungsgemäßen Mitglieder der FSVK zu stellen.
+
+(2) Die Abwahl ist erfolgreich, wenn auf den Antrag in geheimer Abstimmung eine zwei Drittel Mehrheit der Abstimmenden, mindestens die Mehrheit der satzungsgemäßen Mitglieder, entfällt.
+
+(3) Über eine erfolgreiche Abwahl ist der Rechtsausschuss und das SP-Präsidium durch das Fachschaftenreferat unverzüglich zu unterrichten.
+
+== V. Übergangsbestimmungen
+=== § 56 Übergangsbestimmungen
 (1) Zur erstmaligen Wahl eines Fachschaftsrates bestellt das Präsidium des Studierendenparlamentes im Einvernehmen mit der Fachschaft den Wahlausschuss. Die Wahlvollversammlung wird dann von der Wahlleitung einberufen.
 
 (2) Für die Wahlen zum Studierendenparlament im Juni 2020 findet xref:0@wahlordnung::index.adoc#_7_wahlausschuss[§ 7 Absatz 2] in der Fassung der Bekanntmachung vom 07.02.2019 (veröffentlicht in den Amtlichen Bekanntmachungen Nr. 7/2019) Anwendung.
